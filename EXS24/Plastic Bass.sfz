@@ -1,0 +1,246 @@
+// this file was generated from Plastic Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=222384 loop_end=378030 sample=../Audio/Plastic Bass/(20131218 212849)/36C1-9P91.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=324020 loop_end=380367 sample=../Audio/Plastic Bass/(20131218 212849)/36C1-HRO1.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=216382 loop_end=372037 sample=../Audio/Plastic Bass/(20131218 212849)/36C1-O8QC.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=171307 loop_end=262445 sample=../Audio/Plastic Bass/(20131218 212849)/37C#1-VJKM.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=272682 loop_end=363833 sample=../Audio/Plastic Bass/(20131218 212849)/37C#1-B93L.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=156973 loop_end=248122 sample=../Audio/Plastic Bass/(20131218 212849)/37C#1-NTV3.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=180397 loop_end=230661 sample=../Audio/Plastic Bass/(20131218 212849)/38D1-Y4KV.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=157909 loop_end=349398 sample=../Audio/Plastic Bass/(20131218 212849)/38D1-VF5T.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=197296 loop_end=388786 sample=../Audio/Plastic Bass/(20131218 212849)/38D1-APZJ.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=311578 loop_end=388391 sample=../Audio/Plastic Bass/(20131218 212849)/39D#1-MMWD.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=282953 loop_end=359762 sample=../Audio/Plastic Bass/(20131218 212849)/39D#1-9B4Z.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=308467 loop_end=385283 sample=../Audio/Plastic Bass/(20131218 212849)/39D#1-3U27.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=163171 loop_end=214341 sample=../Audio/Plastic Bass/(20131218 212849)/40E1-BC54.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=312609 loop_end=363783 sample=../Audio/Plastic Bass/(20131218 212849)/40E1-N7TR.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=295231 loop_end=346403 sample=../Audio/Plastic Bass/(20131218 212849)/40E1-9VV1.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=155074 loop_end=211369 sample=../Audio/Plastic Bass/(20131218 212849)/41F1-RWGY.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=165495 loop_end=221790 sample=../Audio/Plastic Bass/(20131218 212849)/41F1-TOGS.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=171366 loop_end=336234 sample=../Audio/Plastic Bass/(20131218 212849)/41F1-F8VU.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=224956 loop_end=380613 sample=../Audio/Plastic Bass/(20131218 212849)/42F#1-RYQJ.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=324195 loop_end=388734 sample=../Audio/Plastic Bass/(20131218 212849)/42F#1-5C28.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321206 loop_end=385744 sample=../Audio/Plastic Bass/(20131218 212849)/42F#1-ULGT.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=335612 loop_end=385768 sample=../Audio/Plastic Bass/(20131218 212849)/43G1-M6HR.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=257141 loop_end=307302 sample=../Audio/Plastic Bass/(20131218 212849)/43G1-Z445.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=185298 loop_end=235459 sample=../Audio/Plastic Bass/(20131218 212849)/43G1-N0HP.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=159116 loop_end=236925 sample=../Audio/Plastic Bass/(20131218 212849)/44G#1-5JUQ.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=154668 loop_end=232479 sample=../Audio/Plastic Bass/(20131218 212849)/44G#1-RC7Q.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=154376 loop_end=232189 sample=../Audio/Plastic Bass/(20131218 212849)/44G#1-HE7O.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=153509 loop_end=344995 sample=../Audio/Plastic Bass/(20131218 212849)/45A1-CE3X.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=276827 loop_end=331081 sample=../Audio/Plastic Bass/(20131218 212849)/45A1-VSVG.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=330811 loop_end=385063 sample=../Audio/Plastic Bass/(20131218 212849)/45A1-DEK8.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=319415 loop_end=370642 sample=../Audio/Plastic Bass/(20131218 212849)/46A#1-0NJZ.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=213057 loop_end=267296 sample=../Audio/Plastic Bass/(20131218 212849)/46A#1-FU1H.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=162899 loop_end=214134 sample=../Audio/Plastic Bass/(20131218 212849)/46A#1-SPAK.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=333564 loop_end=384748 sample=../Audio/Plastic Bass/(20131218 212849)/47B1-CQN6.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=283708 loop_end=334902 sample=../Audio/Plastic Bass/(20131218 212849)/47B1-QEO7.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155614 loop_end=206808 sample=../Audio/Plastic Bass/(20131218 212849)/47B1-R7S8.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=156849 loop_end=218609 sample=../Audio/Plastic Bass/(20131218 212849)/48C2-0ZPE.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=173871 loop_end=294710 sample=../Audio/Plastic Bass/(20131218 212849)/48C2-KIUR.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229116 loop_end=349955 sample=../Audio/Plastic Bass/(20131218 212849)/48C2-T3Q7.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=326847 loop_end=374981 sample=../Audio/Plastic Bass/(20131218 212849)/49C#2-EF5S.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=339849 loop_end=387983 sample=../Audio/Plastic Bass/(20131218 212849)/49C#2-FNZ7.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341375 loop_end=389510 sample=../Audio/Plastic Bass/(20131218 212849)/49C#2-18KC.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=296030 loop_end=346227 sample=../Audio/Plastic Bass/(20131218 212849)/50D2-NVXU.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=288585 loop_end=338792 sample=../Audio/Plastic Bass/(20131218 212849)/50D2-UO1W.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=192787 loop_end=242994 sample=../Audio/Plastic Bass/(20131218 212849)/50D2-IP7O.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=156668 loop_end=210827 sample=../Audio/Plastic Bass/(20131218 212849)/51D#2-KFO3.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=183804 loop_end=305665 sample=../Audio/Plastic Bass/(20131218 212849)/51D#2-FWLW.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=231537 loop_end=353399 sample=../Audio/Plastic Bass/(20131218 212849)/51D#2-94CN.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=301029 loop_end=354274 sample=../Audio/Plastic Bass/(20131218 212849)/52E2-N1ET.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=322764 loop_end=376011 sample=../Audio/Plastic Bass/(20131218 212849)/52E2-939G.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=158937 loop_end=212189 sample=../Audio/Plastic Bass/(20131218 212849)/52E2-R0UD.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=275647 loop_end=331939 sample=../Audio/Plastic Bass/(20131218 212849)/53F2-KIZB.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=260261 loop_end=312533 sample=../Audio/Plastic Bass/(20131218 212849)/53F2-8A50.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155778 loop_end=212075 sample=../Audio/Plastic Bass/(20131218 212849)/53F2-2JET.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=155453 loop_end=206706 sample=../Audio/Plastic Bass/(20131218 212849)/54F#2-4U4M.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=161445 loop_end=212699 sample=../Audio/Plastic Bass/(20131218 212849)/54F#2-PAXD.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=190376 loop_end=268210 sample=../Audio/Plastic Bass/(20131218 212849)/54F#2-FDRQ.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=269725 loop_end=319883 sample=../Audio/Plastic Bass/(20131218 212849)/55G2-1U26.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=339441 loop_end=389598 sample=../Audio/Plastic Bass/(20131218 212849)/55G2-N7JJ.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287998 loop_end=338159 sample=../Audio/Plastic Bass/(20131218 212849)/55G2-67JV.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=171075 loop_end=220108 sample=../Audio/Plastic Bass/(20131218 212849)/56G#2-D9DL.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=168801 loop_end=216141 sample=../Audio/Plastic Bass/(20131218 212849)/56G#2-5SG2.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235219 loop_end=282564 sample=../Audio/Plastic Bass/(20131218 212849)/56G#2-8M6C.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=153802 loop_end=208054 sample=../Audio/Plastic Bass/(20131218 212849)/57A2-94OC.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=156252 loop_end=205719 sample=../Audio/Plastic Bass/(20131218 212849)/57A2-8EYR.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=170012 loop_end=223471 sample=../Audio/Plastic Bass/(20131218 212849)/57A2-J3NQ.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=233745 loop_end=285707 sample=../Audio/Plastic Bass/(20131218 212849)/58A#2-CGHP.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=316625 loop_end=367080 sample=../Audio/Plastic Bass/(20131218 212849)/58A#2-TCUW.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341295 loop_end=388738 sample=../Audio/Plastic Bass/(20131218 212849)/58A#2-FB3Y.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=338506 loop_end=388967 sample=../Audio/Plastic Bass/(20131218 212849)/59B2-M0UJ.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=155336 loop_end=205799 sample=../Audio/Plastic Bass/(20131218 212849)/59B2-3MA0.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333448 loop_end=383199 sample=../Audio/Plastic Bass/(20131218 212849)/59B2-LSPY.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=291027 loop_end=339327 sample=../Audio/Plastic Bass/(20131218 212849)/60C3-QA0T.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=180948 loop_end=227237 sample=../Audio/Plastic Bass/(20131218 212849)/60C3-NCUC.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155271 loop_end=210283 sample=../Audio/Plastic Bass/(20131218 212849)/60C3-TM3W.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=218656 loop_end=265524 sample=../Audio/Plastic Bass/(20131218 212849)/61C#3-8STX.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=262418 loop_end=309921 sample=../Audio/Plastic Bass/(20131218 212849)/61C#3-AF7U.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=325155 loop_end=372656 sample=../Audio/Plastic Bass/(20131218 212849)/61C#3-3KDW.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=155204 loop_end=202433 sample=../Audio/Plastic Bass/(20131218 212849)/62D3-UU4A.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=177851 loop_end=225081 sample=../Audio/Plastic Bass/(20131218 212849)/62D3-27QF.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288900 loop_end=336729 sample=../Audio/Plastic Bass/(20131218 212849)/62D3-PJI4.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=293512 loop_end=342593 sample=../Audio/Plastic Bass/(20131218 212849)/63D#3-FWF8.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=233210 loop_end=280601 sample=../Audio/Plastic Bass/(20131218 212849)/63D#3-VTZO.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=153787 loop_end=203999 sample=../Audio/Plastic Bass/(20131218 212849)/63D#3-FQOQ.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=194258 loop_end=245907 sample=../Audio/Plastic Bass/(20131218 212849)/64E3-LMJQ.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=271375 loop_end=324623 sample=../Audio/Plastic Bass/(20131218 212849)/64E3-R3P3.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=336147 loop_end=388328 sample=../Audio/Plastic Bass/(20131218 212849)/64E3-5ASZ.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=155007 loop_end=201750 sample=../Audio/Plastic Bass/(20131218 212849)/65F3-OWQ8.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=227692 loop_end=275440 sample=../Audio/Plastic Bass/(20131218 212849)/65F3-I07G.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242347 loop_end=288592 sample=../Audio/Plastic Bass/(20131218 212849)/65F3-SHJU.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=185813 loop_end=233245 sample=../Audio/Plastic Bass/(20131218 212849)/66F#3-FUWY.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=240572 loop_end=288955 sample=../Audio/Plastic Bass/(20131218 212849)/66F#3-RXG9.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=307256 loop_end=354211 sample=../Audio/Plastic Bass/(20131218 212849)/66F#3-N6F1.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=155292 loop_end=201856 sample=../Audio/Plastic Bass/(20131218 212849)/67G3-FCV8.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=181515 loop_end=231663 sample=../Audio/Plastic Bass/(20131218 212849)/67G3-FB16.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253628 loop_end=301986 sample=../Audio/Plastic Bass/(20131218 212849)/67G3-Y07W.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=313012 loop_end=364568 sample=../Audio/Plastic Bass/(20131218 212849)/68G#3-W41L.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=341316 loop_end=389492 sample=../Audio/Plastic Bass/(20131218 212849)/68G#3-6XWH.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271829 loop_end=318743 sample=../Audio/Plastic Bass/(20131218 212849)/68G#3-F0MU.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=341597 loop_end=389070 sample=../Audio/Plastic Bass/(20131218 212849)/69A3-77R3.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=341159 loop_end=388230 sample=../Audio/Plastic Bass/(20131218 212849)/69A3-PZ4A.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155207 loop_end=201482 sample=../Audio/Plastic Bass/(20131218 212849)/69A3-2QW6.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=154539 loop_end=201605 sample=../Audio/Plastic Bass/(20131218 212849)/70A#3-1XUH.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=155039 loop_end=201730 sample=../Audio/Plastic Bass/(20131218 212849)/70A#3-BDRS.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=197105 loop_end=245304 sample=../Audio/Plastic Bass/(20131218 212849)/70A#3-2X68.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=255304 loop_end=305410 sample=../Audio/Plastic Bass/(20131218 212849)/71B3-WQ6P.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=302989 loop_end=381524 sample=../Audio/Plastic Bass/(20131218 212849)/71B3-X52Q.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341415 loop_end=387967 sample=../Audio/Plastic Bass/(20131218 212849)/71B3-WYOV.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=341243 loop_end=388201 sample=../Audio/Plastic Bass/(20131218 212849)/72C4-5ABJ.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=242911 loop_end=289869 sample=../Audio/Plastic Bass/(20131218 212849)/72C4-0YUY.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=202145 loop_end=249779 sample=../Audio/Plastic Bass/(20131218 212849)/72C4-J8LC.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=341156 loop_end=388323 sample=../Audio/Plastic Bass/(20131218 212849)/73C#4-IGU6.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=332323 loop_end=379179 sample=../Audio/Plastic Bass/(20131218 212849)/73C#4-00EW.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238152 loop_end=284692 sample=../Audio/Plastic Bass/(20131218 212849)/73C#4-GOWR.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=223933 loop_end=270251 sample=../Audio/Plastic Bass/(20131218 212849)/74D4-OQNR.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=284554 loop_end=389742 sample=../Audio/Plastic Bass/(20131218 212849)/74D4-BBSX.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341437 loop_end=388651 sample=../Audio/Plastic Bass/(20131218 212849)/74D4-VZVU.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=271532 loop_end=318631 sample=../Audio/Plastic Bass/(20131218 212849)/75D#4-2OGD.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=230003 loop_end=276252 sample=../Audio/Plastic Bass/(20131218 212849)/75D#4-F7RH.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=200643 loop_end=364140 sample=../Audio/Plastic Bass/(20131218 212849)/75D#4-6KRP.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=239821 loop_end=286673 sample=../Audio/Plastic Bass/(20131218 212849)/76E4-X5EY.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=154309 loop_end=201694 sample=../Audio/Plastic Bass/(20131218 212849)/76E4-4XMF.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235101 loop_end=281422 sample=../Audio/Plastic Bass/(20131218 212849)/76E4-H5F4.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=300657 loop_end=350158 sample=../Audio/Plastic Bass/(20131218 212849)/77F4-9Y1B.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=173759 loop_end=220245 sample=../Audio/Plastic Bass/(20131218 212849)/77F4-K6T8.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=215758 loop_end=265013 sample=../Audio/Plastic Bass/(20131218 212849)/77F4-L26V.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=328176 loop_end=375371 sample=../Audio/Plastic Bass/(20131218 212849)/78F#4-WIPB.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=281757 loop_end=328479 sample=../Audio/Plastic Bass/(20131218 212849)/78F#4-LA9P.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=154531 loop_end=201492 sample=../Audio/Plastic Bass/(20131218 212849)/78F#4-SRRD.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=206481 loop_end=253718 sample=../Audio/Plastic Bass/(20131218 212849)/79G4-T0FT.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=258696 loop_end=305262 sample=../Audio/Plastic Bass/(20131218 212849)/79G4-7CXX.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=334517 loop_end=388021 sample=../Audio/Plastic Bass/(20131218 212849)/79G4-3YVQ.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=153430 loop_end=387697 sample=../Audio/Plastic Bass/(20131218 212849)/80G#4-WHB9.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=187998 loop_end=235541 sample=../Audio/Plastic Bass/(20131218 212849)/80G#4-Z78U.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=198894 loop_end=245594 sample=../Audio/Plastic Bass/(20131218 212849)/80G#4-I325.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=313990 loop_end=360654 sample=../Audio/Plastic Bass/(20131218 212849)/81A4-U6DA.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=200825 loop_end=250676 sample=../Audio/Plastic Bass/(20131218 212849)/81A4-XJW5.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155263 loop_end=201531 sample=../Audio/Plastic Bass/(20131218 212849)/81A4-K0AN.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=202950 loop_end=253207 sample=../Audio/Plastic Bass/(20131218 212849)/82A#4-GRYI.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=264878 loop_end=312125 sample=../Audio/Plastic Bass/(20131218 212849)/82A#4-CFUB.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338179 loop_end=388436 sample=../Audio/Plastic Bass/(20131218 212849)/82A#4-N13L.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=153580 loop_end=201549 sample=../Audio/Plastic Bass/(20131218 212849)/83B4-7UAW.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=154879 loop_end=201607 sample=../Audio/Plastic Bass/(20131218 212849)/83B4-YA4J.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241246 loop_end=289574 sample=../Audio/Plastic Bass/(20131218 212849)/83B4-AWJJ.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=259747 loop_end=307038 sample=../Audio/Plastic Bass/(20131218 212849)/84C5-JBF7.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=155633 loop_end=204434 sample=../Audio/Plastic Bass/(20131218 212849)/84C5-NZB8.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155218 loop_end=201504 sample=../Audio/Plastic Bass/(20131218 212849)/84C5-YKIN.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=168821 loop_end=358136 sample=../Audio/Plastic Bass/(20131218 212849)/85C#5-R7QV.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=271805 loop_end=320400 sample=../Audio/Plastic Bass/(20131218 212849)/85C#5-WBM2.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223848 loop_end=271337 sample=../Audio/Plastic Bass/(20131218 212849)/85C#5-BTJO.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=158433 loop_end=205943 sample=../Audio/Plastic Bass/(20131218 212849)/86D5-BHQI.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=341705 loop_end=387869 sample=../Audio/Plastic Bass/(20131218 212849)/86D5-BKU5.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224121 loop_end=389466 sample=../Audio/Plastic Bass/(20131218 212849)/86D5-WALQ.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=272222 loop_end=389731 sample=../Audio/Plastic Bass/(20131218 212849)/87D#5-3ECQ.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=250075 loop_end=298163 sample=../Audio/Plastic Bass/(20131218 212849)/87D#5-1SZT.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=159097 loop_end=206058 sample=../Audio/Plastic Bass/(20131218 212849)/87D#5-N30E.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=195380 loop_end=277337 sample=../Audio/Plastic Bass/(20131218 212849)/88E5-XAZQ.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=304685 loop_end=352734 sample=../Audio/Plastic Bass/(20131218 212849)/88E5-ACQJ.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=173659 loop_end=221977 sample=../Audio/Plastic Bass/(20131218 212849)/88E5-872V.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=155378 loop_end=250400 sample=../Audio/Plastic Bass/(20131218 212849)/89F5-C0VF.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=300693 loop_end=347050 sample=../Audio/Plastic Bass/(20131218 212849)/89F5-3R3U.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=172710 loop_end=219951 sample=../Audio/Plastic Bass/(20131218 212849)/89F5-J1OM.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=246547 loop_end=389635 sample=../Audio/Plastic Bass/(20131218 212849)/90F#5-CGQY.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=341620 loop_end=388460 sample=../Audio/Plastic Bass/(20131218 212849)/90F#5-V6I7.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=188009 loop_end=236869 sample=../Audio/Plastic Bass/(20131218 212849)/90F#5-T0CB.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=180871 loop_end=380552 sample=../Audio/Plastic Bass/(20131218 212849)/91G5-RXT6.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=338595 loop_end=384821 sample=../Audio/Plastic Bass/(20131218 212849)/91G5-ZA1X.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155263 loop_end=201492 sample=../Audio/Plastic Bass/(20131218 212849)/91G5-MCV7.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=164554 loop_end=210720 sample=../Audio/Plastic Bass/(20131218 212849)/92G#5-KMTF.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=285390 loop_end=332612 sample=../Audio/Plastic Bass/(20131218 212849)/92G#5-X6NJ.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305559 loop_end=354156 sample=../Audio/Plastic Bass/(20131218 212849)/92G#5-LPM6.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=242248 loop_end=289903 sample=../Audio/Plastic Bass/(20131218 212849)/93A5-NW3J.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=179867 loop_end=230223 sample=../Audio/Plastic Bass/(20131218 212849)/93A5-WMLA.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249455 loop_end=295723 sample=../Audio/Plastic Bass/(20131218 212849)/93A5-PPL1.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=335524 loop_end=382957 sample=../Audio/Plastic Bass/(20131218 212849)/94A#5-I6B3.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=281373 loop_end=389825 sample=../Audio/Plastic Bass/(20131218 212849)/94A#5-254V.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=160359 loop_end=206665 sample=../Audio/Plastic Bass/(20131218 212849)/94A#5-ZUF8.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=285852 loop_end=333644 sample=../Audio/Plastic Bass/(20131218 212849)/95B5-D7ZJ.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=311332 loop_end=358235 sample=../Audio/Plastic Bass/(20131218 212849)/95B5-YT5D.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155129 loop_end=201502 sample=../Audio/Plastic Bass/(20131218 212849)/95B5-8BPF.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 loop_mode=loop_sustain loop_start=177786 loop_end=224070 sample=../Audio/Plastic Bass/(20131218 212849)/96C6-AN4A.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 loop_mode=loop_sustain loop_start=243481 loop_end=387953 sample=../Audio/Plastic Bass/(20131218 212849)/96C6-8M2J.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=339642 loop_end=388021 sample=../Audio/Plastic Bass/(20131218 212849)/96C6-8NX4.aif

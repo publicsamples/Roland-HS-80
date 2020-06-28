@@ -1,0 +1,246 @@
+// this file was generated from Vs Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=534 end=441695 sample=../Audio/Vs Pad/36C1-VC98.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=529 end=442143 sample=../Audio/Vs Pad/36C1-FL53.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=840 end=441859 sample=../Audio/Vs Pad/36C1-QYMI.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=395 end=441600 sample=../Audio/Vs Pad/37C#1-1M7Y.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=316 end=441944 sample=../Audio/Vs Pad/37C#1-KCZE.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=776 end=442496 sample=../Audio/Vs Pad/37C#1-BOY3.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=817 end=441472 sample=../Audio/Vs Pad/38D1-HOBH.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=676 end=441216 sample=../Audio/Vs Pad/38D1-3N9I.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=513 end=441988 sample=../Audio/Vs Pad/38D1-WE1L.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1097 end=441513 sample=../Audio/Vs Pad/39D#1-87MW.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=595 end=441858 sample=../Audio/Vs Pad/39D#1-DCZT.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=639 end=441855 sample=../Audio/Vs Pad/39D#1-HS2Z.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=526 end=441130 sample=../Audio/Vs Pad/40E1-LWZO.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=611 end=441981 sample=../Audio/Vs Pad/40E1-F5NB.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=627 end=442078 sample=../Audio/Vs Pad/40E1-1YXI.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=523 end=441650 sample=../Audio/Vs Pad/41F1-QGPJ.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=559 end=442240 sample=../Audio/Vs Pad/41F1-K9NH.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=603 end=441531 sample=../Audio/Vs Pad/41F1-7HGK.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=548 end=441616 sample=../Audio/Vs Pad/42F#1-MTWX.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=771 end=440960 sample=../Audio/Vs Pad/42F#1-CKKE.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=621 end=441994 sample=../Audio/Vs Pad/42F#1-7DIE.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=567 end=441456 sample=../Audio/Vs Pad/43G1-MDSC.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=730 end=441986 sample=../Audio/Vs Pad/43G1-U1GX.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=482 end=442534 sample=../Audio/Vs Pad/43G1-1OSQ.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=791 end=442399 sample=../Audio/Vs Pad/44G#1-H1DV.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=541 end=441314 sample=../Audio/Vs Pad/44G#1-NDIY.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=440 end=441511 sample=../Audio/Vs Pad/44G#1-T89S.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=604 end=441036 sample=../Audio/Vs Pad/45A1-AW6J.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=314 end=441088 sample=../Audio/Vs Pad/45A1-J8HP.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=600 end=441366 sample=../Audio/Vs Pad/45A1-GZDR.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=748 end=441216 sample=../Audio/Vs Pad/46A#1-58ZL.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=540 end=441728 sample=../Audio/Vs Pad/46A#1-VMZL.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=563 end=441960 sample=../Audio/Vs Pad/46A#1-YJE9.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=660 end=441357 sample=../Audio/Vs Pad/47B1-G4PF.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=746 sample=../Audio/Vs Pad/47B1-UVHA.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=486 end=441695 sample=../Audio/Vs Pad/47B1-T34U.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=769 end=441286 sample=../Audio/Vs Pad/48C2-AR5V.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=679 end=442134 sample=../Audio/Vs Pad/48C2-MPA7.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=632 end=441101 sample=../Audio/Vs Pad/48C2-V0PF.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=801 end=441344 sample=../Audio/Vs Pad/49C#2-M5Y0.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=504 end=441908 sample=../Audio/Vs Pad/49C#2-2QXV.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=474 end=441475 sample=../Audio/Vs Pad/49C#2-H88J.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=562 sample=../Audio/Vs Pad/50D2-LAO9.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=850 end=441933 sample=../Audio/Vs Pad/50D2-ILQX.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=602 end=441093 sample=../Audio/Vs Pad/50D2-GO41.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=687 end=441483 sample=../Audio/Vs Pad/51D#2-9ND0.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=571 end=441563 sample=../Audio/Vs Pad/51D#2-CKZD.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=548 end=442153 sample=../Audio/Vs Pad/51D#2-WRU2.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=697 end=441098 sample=../Audio/Vs Pad/52E2-DV0M.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=517 end=441315 sample=../Audio/Vs Pad/52E2-FU8P.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=612 end=441694 sample=../Audio/Vs Pad/52E2-TKDI.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=909 end=441472 sample=../Audio/Vs Pad/53F2-8EUV.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=682 end=441975 sample=../Audio/Vs Pad/53F2-U5PL.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=680 end=443167 sample=../Audio/Vs Pad/53F2-PC5C.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=638 end=441876 sample=../Audio/Vs Pad/54F#2-VXPB.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=675 end=441649 sample=../Audio/Vs Pad/54F#2-194C.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=663 end=441755 sample=../Audio/Vs Pad/54F#2-INQV.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=749 end=441472 sample=../Audio/Vs Pad/55G2-K01P.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=662 end=441306 sample=../Audio/Vs Pad/55G2-TG09.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=724 end=441359 sample=../Audio/Vs Pad/55G2-CXNU.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1023 end=442280 sample=../Audio/Vs Pad/56G#2-NLPA.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=662 end=441856 sample=../Audio/Vs Pad/56G#2-MPFT.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=657 end=441473 sample=../Audio/Vs Pad/56G#2-QCE1.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=631 end=442220 sample=../Audio/Vs Pad/57A2-47Z8.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=642 end=441401 sample=../Audio/Vs Pad/57A2-079A.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=688 end=442218 sample=../Audio/Vs Pad/57A2-W5UX.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=612 end=441751 sample=../Audio/Vs Pad/58A#2-JOOA.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=612 end=443293 sample=../Audio/Vs Pad/58A#2-LZGC.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=636 end=441728 sample=../Audio/Vs Pad/58A#2-SISD.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=755 end=441445 sample=../Audio/Vs Pad/59B2-YZSW.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=633 end=440972 sample=../Audio/Vs Pad/59B2-PTS7.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=534 end=441197 sample=../Audio/Vs Pad/59B2-BW1X.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=732 end=441482 sample=../Audio/Vs Pad/60C3-AISN.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=647 end=441345 sample=../Audio/Vs Pad/60C3-N4ZF.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=563 end=441617 sample=../Audio/Vs Pad/60C3-G8LU.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=818 end=441628 sample=../Audio/Vs Pad/61C#3-KMV4.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=517 end=441474 sample=../Audio/Vs Pad/61C#3-8E1X.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=628 end=441556 sample=../Audio/Vs Pad/61C#3-PL7B.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=900 end=441475 sample=../Audio/Vs Pad/62D3-Z4V1.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=664 end=442112 sample=../Audio/Vs Pad/62D3-P4HW.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=639 end=441766 sample=../Audio/Vs Pad/62D3-N52G.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=859 end=441670 sample=../Audio/Vs Pad/63D#3-853H.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=566 end=441896 sample=../Audio/Vs Pad/63D#3-WQG2.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=639 end=441426 sample=../Audio/Vs Pad/63D#3-FMPP.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=860 end=441610 sample=../Audio/Vs Pad/64E3-9JEG.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=767 end=441531 sample=../Audio/Vs Pad/64E3-U9V1.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=759 end=441821 sample=../Audio/Vs Pad/64E3-5ZD2.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=908 end=441728 sample=../Audio/Vs Pad/65F3-7D52.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=967 end=441653 sample=../Audio/Vs Pad/65F3-1YPE.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=838 end=441297 sample=../Audio/Vs Pad/65F3-NJ9W.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=893 end=442536 sample=../Audio/Vs Pad/66F#3-D4X7.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=708 end=441152 sample=../Audio/Vs Pad/66F#3-GCT2.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=693 end=442351 sample=../Audio/Vs Pad/66F#3-GG5H.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1151 end=441235 sample=../Audio/Vs Pad/67G3-SPFE.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=805 end=442036 sample=../Audio/Vs Pad/67G3-X8F1.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=689 end=441778 sample=../Audio/Vs Pad/67G3-XCNE.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=912 end=441280 sample=../Audio/Vs Pad/68G#3-BS4E.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=557 end=441101 sample=../Audio/Vs Pad/68G#3-0Y8B.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=567 end=441238 sample=../Audio/Vs Pad/68G#3-9CXZ.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=977 end=441351 sample=../Audio/Vs Pad/69A3-YSQZ.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=797 end=441050 sample=../Audio/Vs Pad/69A3-62RP.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=788 end=441557 sample=../Audio/Vs Pad/69A3-UYFJ.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=722 end=441784 sample=../Audio/Vs Pad/70A#3-9ADT.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=694 end=441924 sample=../Audio/Vs Pad/70A#3-BL3D.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=692 end=441641 sample=../Audio/Vs Pad/70A#3-BHBW.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=841 end=441873 sample=../Audio/Vs Pad/71B3-59A8.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=744 end=441344 sample=../Audio/Vs Pad/71B3-QZ0M.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=605 end=441804 sample=../Audio/Vs Pad/71B3-96WX.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=703 sample=../Audio/Vs Pad/72C4-FVH5.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=572 end=441354 sample=../Audio/Vs Pad/72C4-621W.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=639 end=441847 sample=../Audio/Vs Pad/72C4-H5NM.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=873 end=441378 sample=../Audio/Vs Pad/73C#4-KY1P.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=471 end=442078 sample=../Audio/Vs Pad/73C#4-1V5N.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=576 end=441310 sample=../Audio/Vs Pad/73C#4-6LRH.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=757 end=441934 sample=../Audio/Vs Pad/74D4-UX0T.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=639 end=441668 sample=../Audio/Vs Pad/74D4-EBA4.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=707 end=442112 sample=../Audio/Vs Pad/74D4-PK4B.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=712 end=441534 sample=../Audio/Vs Pad/75D#4-XT5L.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=758 end=441303 sample=../Audio/Vs Pad/75D#4-8K8V.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=630 end=442018 sample=../Audio/Vs Pad/75D#4-W3OQ.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=576 end=441447 sample=../Audio/Vs Pad/76E4-4UUI.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=767 end=441351 sample=../Audio/Vs Pad/76E4-F7PT.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=619 end=441469 sample=../Audio/Vs Pad/76E4-ERJW.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=714 end=441638 sample=../Audio/Vs Pad/77F4-ZX0F.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=621 end=441437 sample=../Audio/Vs Pad/77F4-ICTK.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=721 end=441336 sample=../Audio/Vs Pad/77F4-DTB4.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=885 end=441961 sample=../Audio/Vs Pad/78F#4-SH75.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=724 end=441407 sample=../Audio/Vs Pad/78F#4-VFCZ.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=610 end=440373 sample=../Audio/Vs Pad/78F#4-IH54.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=726 end=441419 sample=../Audio/Vs Pad/79G4-3IH5.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=627 end=441674 sample=../Audio/Vs Pad/79G4-YDBL.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=627 end=441676 sample=../Audio/Vs Pad/79G4-TJOZ.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=995 end=442125 sample=../Audio/Vs Pad/80G#4-YUVL.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=727 end=441799 sample=../Audio/Vs Pad/80G#4-Q3JK.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=759 end=441615 sample=../Audio/Vs Pad/80G#4-TSW0.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=741 end=441747 sample=../Audio/Vs Pad/81A4-DIJK.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=637 end=441342 sample=../Audio/Vs Pad/81A4-3R2K.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=623 end=442175 sample=../Audio/Vs Pad/81A4-LBZX.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=741 end=441511 sample=../Audio/Vs Pad/82A#4-MB9U.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=628 end=441442 sample=../Audio/Vs Pad/82A#4-EJ5I.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=734 end=441720 sample=../Audio/Vs Pad/82A#4-Z5CQ.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=872 end=441858 sample=../Audio/Vs Pad/83B4-GYEQ.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=765 end=441606 sample=../Audio/Vs Pad/83B4-MFL6.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=621 end=441645 sample=../Audio/Vs Pad/83B4-I37V.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=765 end=441344 sample=../Audio/Vs Pad/84C5-QGWV.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=738 end=441747 sample=../Audio/Vs Pad/84C5-OKJF.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=767 end=441731 sample=../Audio/Vs Pad/84C5-6NT3.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=894 end=441263 sample=../Audio/Vs Pad/85C#5-50Y1.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=618 end=441736 sample=../Audio/Vs Pad/85C#5-HBN9.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=639 end=441825 sample=../Audio/Vs Pad/85C#5-HVU8.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=742 end=441972 sample=../Audio/Vs Pad/86D5-Q4OV.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=746 end=441532 sample=../Audio/Vs Pad/86D5-RZ5B.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=625 end=441605 sample=../Audio/Vs Pad/86D5-S8YV.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=883 end=441230 sample=../Audio/Vs Pad/87D#5-VMMC.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=895 end=441505 sample=../Audio/Vs Pad/87D#5-T4FH.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=895 end=441988 sample=../Audio/Vs Pad/87D#5-SUT8.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1006 end=442014 sample=../Audio/Vs Pad/88E5-VL3H.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=767 end=441747 sample=../Audio/Vs Pad/88E5-RM4H.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=889 end=441229 sample=../Audio/Vs Pad/88E5-548G.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=894 end=441264 sample=../Audio/Vs Pad/89F5-AWRA.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=767 end=441553 sample=../Audio/Vs Pad/89F5-C4ZH.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=754 end=441369 sample=../Audio/Vs Pad/89F5-1UGG.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=767 end=441603 sample=../Audio/Vs Pad/90F#5-5STC.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=639 end=442144 sample=../Audio/Vs Pad/90F#5-N7DZ.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=748 end=441368 sample=../Audio/Vs Pad/90F#5-8398.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=747 end=441638 sample=../Audio/Vs Pad/91G5-SJ7T.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=623 end=441811 sample=../Audio/Vs Pad/91G5-4VVI.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=624 end=441581 sample=../Audio/Vs Pad/91G5-JS1T.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=766 end=441651 sample=../Audio/Vs Pad/92G#5-QZRZ.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=621 end=441973 sample=../Audio/Vs Pad/92G#5-8GFB.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=639 end=441647 sample=../Audio/Vs Pad/92G#5-K8JU.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=880 end=441688 sample=../Audio/Vs Pad/93A5-HAV6.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=621 end=441329 sample=../Audio/Vs Pad/93A5-8E0X.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=729 end=441684 sample=../Audio/Vs Pad/93A5-VIZ7.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1141 end=442034 sample=../Audio/Vs Pad/94A#5-TC81.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1023 end=441370 sample=../Audio/Vs Pad/94A#5-NF8H.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1013 end=441177 sample=../Audio/Vs Pad/94A#5-VGCI.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1012 end=441649 sample=../Audio/Vs Pad/95B5-4570.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=881 end=441498 sample=../Audio/Vs Pad/95B5-ELP0.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1019 end=441228 sample=../Audio/Vs Pad/95B5-OCRM.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=884 end=441262 sample=../Audio/Vs Pad/96C6-MT3T.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=628 end=441476 sample=../Audio/Vs Pad/96C6-HWZ2.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=750 end=441854 sample=../Audio/Vs Pad/96C6-OGNV.aif

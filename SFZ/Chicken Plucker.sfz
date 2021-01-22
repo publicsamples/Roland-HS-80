@@ -1,0 +1,124 @@
+// this file was generated from Chicken Plucker.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=335 end=217341 sample=../Audio/Chicken Plucker/36C1-Y8I0.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=422 end=217728 sample=../Audio/Chicken Plucker/37C#1-SLGA.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=284 end=218132 sample=../Audio/Chicken Plucker/38D1-ZWY7.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=335 end=217723 sample=../Audio/Chicken Plucker/39D#1-2NPN.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=342 end=217372 sample=../Audio/Chicken Plucker/40E1-0AVV.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=329 end=217581 sample=../Audio/Chicken Plucker/41F1-ZSGX.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=468 end=217347 sample=../Audio/Chicken Plucker/42F#1-OEVF.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=361 end=218162 sample=../Audio/Chicken Plucker/43G1-KU3V.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=402 end=217634 sample=../Audio/Chicken Plucker/44G#1-68FV.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=406 end=216986 sample=../Audio/Chicken Plucker/45A1-2KSX.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=320 end=217884 sample=../Audio/Chicken Plucker/46A#1-TGO9.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=398 end=216762 sample=../Audio/Chicken Plucker/47B1-U308.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=471 end=217517 sample=../Audio/Chicken Plucker/48C2-A6I0.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=420 end=217105 sample=../Audio/Chicken Plucker/49C#2-PO7T.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=361 end=217452 sample=../Audio/Chicken Plucker/50D2-2Z31.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=327 end=226304 sample=../Audio/Chicken Plucker/51D#2-M99N.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=308 end=216064 sample=../Audio/Chicken Plucker/52E2-J7ZT.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=372 end=216074 sample=../Audio/Chicken Plucker/53F2-XC2H.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=450 end=215570 sample=../Audio/Chicken Plucker/54F#2-OKUJ.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=437 end=215554 sample=../Audio/Chicken Plucker/55G2-B1JG.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=280 end=217088 sample=../Audio/Chicken Plucker/56G#2-IOO6.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=432 end=215825 sample=../Audio/Chicken Plucker/57A2-TI5M.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=391 end=216960 sample=../Audio/Chicken Plucker/58A#2-3AZM.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=320 end=214423 sample=../Audio/Chicken Plucker/59B2-DO5V.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=334 end=216704 sample=../Audio/Chicken Plucker/60C3-BRDD.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=356 end=216201 sample=../Audio/Chicken Plucker/61C#3-99JF.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=308 end=216448 sample=../Audio/Chicken Plucker/62D3-UKN9.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=482 end=216459 sample=../Audio/Chicken Plucker/63D#3-ZSVP.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=376 end=216102 sample=../Audio/Chicken Plucker/64E3-39D2.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=493 end=214659 sample=../Audio/Chicken Plucker/65F3-ETZN.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=471 end=215682 sample=../Audio/Chicken Plucker/66F#3-WNN4.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=327 end=214912 sample=../Audio/Chicken Plucker/67G3-L80U.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=347 end=215562 sample=../Audio/Chicken Plucker/68G#3-ED1N.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=415 end=214679 sample=../Audio/Chicken Plucker/69A3-J567.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=303 end=216448 sample=../Audio/Chicken Plucker/70A#3-IIT6.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=424 end=215296 sample=../Audio/Chicken Plucker/71B3-Q1LN.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=442 end=225024 sample=../Audio/Chicken Plucker/72C4-411N.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=347 end=227200 sample=../Audio/Chicken Plucker/73C#4-XX6L.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=358 end=215936 sample=../Audio/Chicken Plucker/74D4-VV5V.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=449 end=215936 sample=../Audio/Chicken Plucker/75D#4-X8T2.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=310 end=215168 sample=../Audio/Chicken Plucker/76E4-QWDG.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=359 end=215424 sample=../Audio/Chicken Plucker/77F4-VSDF.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=359 end=215808 sample=../Audio/Chicken Plucker/78F#4-9E36.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=336 end=216192 sample=../Audio/Chicken Plucker/79G4-VXS5.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=349 end=216966 sample=../Audio/Chicken Plucker/80G#4-6X0D.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=364 end=216192 sample=../Audio/Chicken Plucker/81A4-LJRX.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=412 end=214035 sample=../Audio/Chicken Plucker/82A#4-14XB.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=438 end=212992 sample=../Audio/Chicken Plucker/83B4-V9Y4.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=353 end=226048 sample=../Audio/Chicken Plucker/84C5-L4V1.aif
+<group> key=85 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=335 end=214415 sample=../Audio/Chicken Plucker/85C#5-SUF8.aif
+<group> key=86 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=332 end=214656 sample=../Audio/Chicken Plucker/86D5-NC1C.aif
+<group> key=87 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=502 end=214149 sample=../Audio/Chicken Plucker/87D#5-6XI1.aif
+<group> key=88 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=294 end=214656 sample=../Audio/Chicken Plucker/88E5-BN2Q.aif
+<group> key=89 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=488 end=214275 sample=../Audio/Chicken Plucker/89F5-CJDL.aif
+<group> key=90 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=317 end=215424 sample=../Audio/Chicken Plucker/90F#5-BTCI.aif
+<group> key=91 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=411 end=215559 sample=../Audio/Chicken Plucker/91G5-U160.aif
+<group> key=92 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=269 end=226560 sample=../Audio/Chicken Plucker/92G#5-ECH7.aif
+<group> key=93 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=385 end=213250 sample=../Audio/Chicken Plucker/93A5-N3GO.aif
+<group> key=94 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=308 end=215296 sample=../Audio/Chicken Plucker/94A#5-UPR3.aif
+<group> key=95 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=354 end=214786 sample=../Audio/Chicken Plucker/95B5-9WEP.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=425 end=213888 sample=../Audio/Chicken Plucker/96C6-1X15.aif

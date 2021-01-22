@@ -1,0 +1,246 @@
+// this file was generated from Bored Of Canada.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1142 end=781533 sample=../Audio/Bored Of Canada/36C1-H08N.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=966 end=782075 sample=../Audio/Bored Of Canada/36C1-0KY9.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=729 end=780500 sample=../Audio/Bored Of Canada/36C1-E8FO.aif
+<group> key=37 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=818 end=782001 sample=../Audio/Bored Of Canada/37C#1-9R4D.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1289 end=776704 sample=../Audio/Bored Of Canada/37C#1-2BL4.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=820 end=780034 sample=../Audio/Bored Of Canada/37C#1-699C.aif
+<group> key=38 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1373 end=777931 sample=../Audio/Bored Of Canada/38D1-2OLY.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=855 end=788992 sample=../Audio/Bored Of Canada/38D1-ZA12.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1277 end=776988 sample=../Audio/Bored Of Canada/38D1-S3PV.aif
+<group> key=39 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=806 sample=../Audio/Bored Of Canada/39D#1-Y0K1.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=979 end=781572 sample=../Audio/Bored Of Canada/39D#1-HMX6.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=834 end=781260 sample=../Audio/Bored Of Canada/39D#1-EKLF.aif
+<group> key=40 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=611 end=790016 sample=../Audio/Bored Of Canada/40E1-2LLC.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=903 end=777485 sample=../Audio/Bored Of Canada/40E1-XSPA.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1259 end=787200 sample=../Audio/Bored Of Canada/40E1-T5NX.aif
+<group> key=41 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1364 end=787456 sample=../Audio/Bored Of Canada/41F1-DNAN.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=890 end=788864 sample=../Audio/Bored Of Canada/41F1-HCTY.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1190 sample=../Audio/Bored Of Canada/41F1-7HGD.aif
+<group> key=42 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1031 end=783540 sample=../Audio/Bored Of Canada/42F#1-4L7U.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=750 end=782081 sample=../Audio/Bored Of Canada/42F#1-EV0F.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=979 end=795648 sample=../Audio/Bored Of Canada/42F#1-VSHJ.aif
+<group> key=43 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1216 end=781174 sample=../Audio/Bored Of Canada/43G1-VAO1.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=770 end=777216 sample=../Audio/Bored Of Canada/43G1-E1FU.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=808 end=789505 sample=../Audio/Bored Of Canada/43G1-7GEL.aif
+<group> key=44 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=733 end=768011 sample=../Audio/Bored Of Canada/44G#1-A9AV.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=717 sample=../Audio/Bored Of Canada/44G#1-DWB8.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1387 end=766848 sample=../Audio/Bored Of Canada/44G#1-RMNC.aif
+<group> key=45 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=966 end=782336 sample=../Audio/Bored Of Canada/45A1-IKQF.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=777 end=763008 sample=../Audio/Bored Of Canada/45A1-69II.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=802 end=766292 sample=../Audio/Bored Of Canada/45A1-0326.aif
+<group> key=46 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=674 sample=../Audio/Bored Of Canada/46A#1-I2UW.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1041 end=763392 sample=../Audio/Bored Of Canada/46A#1-ZRBT.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=996 end=768387 sample=../Audio/Bored Of Canada/46A#1-056I.aif
+<group> key=47 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=810 end=768135 sample=../Audio/Bored Of Canada/47B1-T85A.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=759 sample=../Audio/Bored Of Canada/47B1-J2E5.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1243 end=766596 sample=../Audio/Bored Of Canada/47B1-BVLR.aif
+<group> key=48 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=811 end=768339 sample=../Audio/Bored Of Canada/48C2-PB78.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1021 end=766211 sample=../Audio/Bored Of Canada/48C2-D4G3.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1072 end=771248 sample=../Audio/Bored Of Canada/48C2-H4VD.aif
+<group> key=49 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=702 end=765312 sample=../Audio/Bored Of Canada/49C#2-GL6R.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=857 end=766645 sample=../Audio/Bored Of Canada/49C#2-97LV.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1056 end=762670 sample=../Audio/Bored Of Canada/49C#2-SJII.aif
+<group> key=50 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=913 end=881442 sample=../Audio/Bored Of Canada/50D2-336Q.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=985 end=764995 sample=../Audio/Bored Of Canada/50D2-BFPV.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=952 end=778368 sample=../Audio/Bored Of Canada/50D2-R70V.aif
+<group> key=51 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=895 end=767594 sample=../Audio/Bored Of Canada/51D#2-HWCB.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=889 end=761856 sample=../Audio/Bored Of Canada/51D#2-IVMQ.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=856 end=770944 sample=../Audio/Bored Of Canada/51D#2-IGHI.aif
+<group> key=52 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1150 end=768768 sample=../Audio/Bored Of Canada/52E2-9VCX.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1146 sample=../Audio/Bored Of Canada/52E2-OQ2D.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1119 end=766336 sample=../Audio/Bored Of Canada/52E2-AXV9.aif
+<group> key=53 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=780 end=770351 sample=../Audio/Bored Of Canada/53F2-JYDE.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=938 end=769050 sample=../Audio/Bored Of Canada/53F2-HRCU.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=701 end=777344 sample=../Audio/Bored Of Canada/53F2-09RG.aif
+<group> key=54 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=715 end=771627 sample=../Audio/Bored Of Canada/54F#2-TMVU.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1023 end=770048 sample=../Audio/Bored Of Canada/54F#2-6P4D.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=982 end=763181 sample=../Audio/Bored Of Canada/54F#2-J5LJ.aif
+<group> key=55 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1227 end=769983 sample=../Audio/Bored Of Canada/55G2-SB80.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1150 end=771235 sample=../Audio/Bored Of Canada/55G2-583X.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=948 end=764301 sample=../Audio/Bored Of Canada/55G2-R3UE.aif
+<group> key=56 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1126 sample=../Audio/Bored Of Canada/56G#2-90Z1.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=744 end=765063 sample=../Audio/Bored Of Canada/56G#2-6V1U.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=859 end=764708 sample=../Audio/Bored Of Canada/56G#2-1RSD.aif
+<group> key=57 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=894 end=762304 sample=../Audio/Bored Of Canada/57A2-HNR4.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=895 end=763136 sample=../Audio/Bored Of Canada/57A2-OKVR.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=856 end=765443 sample=../Audio/Bored Of Canada/57A2-DU8V.aif
+<group> key=58 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=947 sample=../Audio/Bored Of Canada/58A#2-BLQ0.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1023 end=766592 sample=../Audio/Bored Of Canada/58A#2-V0I1.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=742 end=764344 sample=../Audio/Bored Of Canada/58A#2-IRKU.aif
+<group> key=59 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=847 end=764690 sample=../Audio/Bored Of Canada/59B2-S6UG.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=876 end=778752 sample=../Audio/Bored Of Canada/59B2-Y05J.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=985 end=760832 sample=../Audio/Bored Of Canada/59B2-UEYA.aif
+<group> key=60 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=839 sample=../Audio/Bored Of Canada/60C3-BDI9.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1151 sample=../Audio/Bored Of Canada/60C3-5LC9.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1014 end=754697 sample=../Audio/Bored Of Canada/60C3-ZOQT.aif
+<group> key=61 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=882 end=754353 sample=../Audio/Bored Of Canada/61C#3-D96K.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=983 end=756499 sample=../Audio/Bored Of Canada/61C#3-D5JE.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=892 end=761089 sample=../Audio/Bored Of Canada/61C#3-8E52.aif
+<group> key=62 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=708 end=759170 sample=../Audio/Bored Of Canada/62D3-NL7D.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1010 end=748419 sample=../Audio/Bored Of Canada/62D3-PDOE.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1148 end=757760 sample=../Audio/Bored Of Canada/62D3-ZNH4.aif
+<group> key=63 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=725 end=769664 sample=../Audio/Bored Of Canada/63D#3-UFG3.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1023 end=755201 sample=../Audio/Bored Of Canada/63D#3-KZ5E.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=895 end=749952 sample=../Audio/Bored Of Canada/63D#3-Q6MZ.aif
+<group> key=64 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=826 end=740736 sample=../Audio/Bored Of Canada/64E3-KVT1.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1133 end=762255 sample=../Audio/Bored Of Canada/64E3-WIKF.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1115 end=764544 sample=../Audio/Bored Of Canada/64E3-70G5.aif
+<group> key=65 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=995 sample=../Audio/Bored Of Canada/65F3-GEYC.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1004 end=756225 sample=../Audio/Bored Of Canada/65F3-R71G.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1151 end=759682 sample=../Audio/Bored Of Canada/65F3-FQA7.aif
+<group> key=66 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=839 end=750615 sample=../Audio/Bored Of Canada/66F#3-9TLR.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1139 end=744064 sample=../Audio/Bored Of Canada/66F#3-PSU7.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1018 end=739584 sample=../Audio/Bored Of Canada/66F#3-XNJ8.aif
+<group> key=67 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1141 end=753924 sample=../Audio/Bored Of Canada/67G3-N6QO.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1148 end=748036 sample=../Audio/Bored Of Canada/67G3-SPEX.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1023 end=744192 sample=../Audio/Bored Of Canada/67G3-971P.aif
+<group> key=68 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=872 end=747908 sample=../Audio/Bored Of Canada/68G#3-F57P.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=867 end=753047 sample=../Audio/Bored Of Canada/68G#3-AXLC.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1020 end=743680 sample=../Audio/Bored Of Canada/68G#3-OZWG.aif
+<group> key=69 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1151 end=753921 sample=../Audio/Bored Of Canada/69A3-JC8Y.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1139 end=751232 sample=../Audio/Bored Of Canada/69A3-DWAH.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=969 end=748457 sample=../Audio/Bored Of Canada/69A3-9O18.aif
+<group> key=70 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=986 end=750086 sample=../Audio/Bored Of Canada/70A#3-I4WA.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=879 sample=../Audio/Bored Of Canada/70A#3-3494.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1254 end=744327 sample=../Audio/Bored Of Canada/70A#3-8UQS.aif
+<group> key=71 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=844 end=758564 sample=../Audio/Bored Of Canada/71B3-VD9G.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1023 end=754191 sample=../Audio/Bored Of Canada/71B3-2KT1.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=874 end=754944 sample=../Audio/Bored Of Canada/71B3-8UW0.aif
+<group> key=72 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=735 end=760456 sample=../Audio/Bored Of Canada/72C4-OUC9.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1018 end=748813 sample=../Audio/Bored Of Canada/72C4-QFY6.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=895 end=752400 sample=../Audio/Bored Of Canada/72C4-B9H4.aif
+<group> key=73 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=886 end=766208 sample=../Audio/Bored Of Canada/73C#4-1H53.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1004 end=755477 sample=../Audio/Bored Of Canada/73C#4-7KET.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=895 end=745345 sample=../Audio/Bored Of Canada/73C#4-VKVD.aif
+<group> key=74 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1005 end=755584 sample=../Audio/Bored Of Canada/74D4-4DDX.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=895 end=750976 sample=../Audio/Bored Of Canada/74D4-SJI7.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=985 end=749987 sample=../Audio/Bored Of Canada/74D4-A888.aif
+<group> key=75 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1141 end=755456 sample=../Audio/Bored Of Canada/75D#4-EIPR.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=875 end=751872 sample=../Audio/Bored Of Canada/75D#4-PULB.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1148 end=742016 sample=../Audio/Bored Of Canada/75D#4-2HUH.aif
+<group> key=76 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=854 end=743816 sample=../Audio/Bored Of Canada/76E4-NCF6.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=740 end=731392 sample=../Audio/Bored Of Canada/76E4-S777.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1243 end=733954 sample=../Audio/Bored Of Canada/76E4-VMS2.aif
+<group> key=77 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1151 end=738560 sample=../Audio/Bored Of Canada/77F4-PA1L.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=881 end=734593 sample=../Audio/Bored Of Canada/77F4-IYSE.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=886 end=733312 sample=../Audio/Bored Of Canada/77F4-1DHQ.aif
+<group> key=78 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=992 end=758528 sample=../Audio/Bored Of Canada/78F#4-UMLL.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1124 end=736256 sample=../Audio/Bored Of Canada/78F#4-19Y3.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=878 end=734864 sample=../Audio/Bored Of Canada/78F#4-AL6U.aif
+<group> key=79 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=895 end=747656 sample=../Audio/Bored Of Canada/79G4-O54L.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1143 end=739200 sample=../Audio/Bored Of Canada/79G4-OIYQ.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=836 end=744576 sample=../Audio/Bored Of Canada/79G4-7X15.aif
+<group> key=80 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=895 end=747153 sample=../Audio/Bored Of Canada/80G#4-7CJR.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=880 end=738187 sample=../Audio/Bored Of Canada/80G#4-N98S.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=869 end=749056 sample=../Audio/Bored Of Canada/80G#4-ZVQI.aif
+<group> key=81 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1015 sample=../Audio/Bored Of Canada/81A4-HF1T.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=893 end=740743 sample=../Audio/Bored Of Canada/81A4-EY5X.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=894 end=739713 sample=../Audio/Bored Of Canada/81A4-TBOM.aif
+<group> key=82 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1141 end=736640 sample=../Audio/Bored Of Canada/82A#4-2Q33.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=971 end=738176 sample=../Audio/Bored Of Canada/82A#4-QX2U.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1018 end=750208 sample=../Audio/Bored Of Canada/82A#4-8893.aif
+<group> key=83 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1407 end=751360 sample=../Audio/Bored Of Canada/83B4-LIU6.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=890 end=753920 sample=../Audio/Bored Of Canada/83B4-97OA.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1149 end=740488 sample=../Audio/Bored Of Canada/83B4-QO1X.aif
+<group> key=84 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1001 end=755073 sample=../Audio/Bored Of Canada/84C5-ZZ8F.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=634 end=745601 sample=../Audio/Bored Of Canada/84C5-A43O.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=891 end=737927 sample=../Audio/Bored Of Canada/84C5-SGJ1.aif
+<group> key=85 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=989 end=753152 sample=../Audio/Bored Of Canada/85C#5-V2Z1.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1017 end=740480 sample=../Audio/Bored Of Canada/85C#5-HHGJ.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1134 end=749312 sample=../Audio/Bored Of Canada/85C#5-YJ4K.aif
+<group> key=86 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=881 end=740873 sample=../Audio/Bored Of Canada/86D5-ZBLV.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1014 end=739072 sample=../Audio/Bored Of Canada/86D5-EAK7.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1004 end=731909 sample=../Audio/Bored Of Canada/86D5-FMLY.aif
+<group> key=87 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1006 sample=../Audio/Bored Of Canada/87D#5-P8L0.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1010 end=738048 sample=../Audio/Bored Of Canada/87D#5-DD71.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1005 end=756224 sample=../Audio/Bored Of Canada/87D#5-AG81.aif
+<group> key=88 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1008 end=755072 sample=../Audio/Bored Of Canada/88E5-63VB.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1146 end=740357 sample=../Audio/Bored Of Canada/88E5-EVR3.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1021 end=724097 sample=../Audio/Bored Of Canada/88E5-8CHG.aif
+<group> key=89 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=874 end=745096 sample=../Audio/Bored Of Canada/89F5-N5Y0.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1139 end=742920 sample=../Audio/Bored Of Canada/89F5-OI00.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1019 end=754304 sample=../Audio/Bored Of Canada/89F5-8U4L.aif
+<group> key=90 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=767 end=738944 sample=../Audio/Bored Of Canada/90F#5-WF9G.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1012 end=753536 sample=../Audio/Bored Of Canada/90F#5-R2Q0.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=895 end=738962 sample=../Audio/Bored Of Canada/90F#5-JML2.aif
+<group> key=91 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1020 end=754949 sample=../Audio/Bored Of Canada/91G5-HR5Z.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1009 end=735875 sample=../Audio/Bored Of Canada/91G5-JJC9.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1150 end=729347 sample=../Audio/Bored Of Canada/91G5-R6IP.aif
+<group> key=92 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1144 end=746752 sample=../Audio/Bored Of Canada/92G#5-ZXVW.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1001 end=724869 sample=../Audio/Bored Of Canada/92G#5-C8RS.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1010 sample=../Audio/Bored Of Canada/92G#5-CYU5.aif
+<group> key=93 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=892 end=734337 sample=../Audio/Bored Of Canada/93A5-SFS4.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=891 end=726528 sample=../Audio/Bored Of Canada/93A5-IA4V.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1002 end=727682 sample=../Audio/Bored Of Canada/93A5-CI1N.aif
+<group> key=94 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=886 end=734729 sample=../Audio/Bored Of Canada/94A#5-WS3K.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1151 end=733189 sample=../Audio/Bored Of Canada/94A#5-ET0Z.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1017 end=727296 sample=../Audio/Bored Of Canada/94A#5-2DC6.aif
+<group> key=95 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=761 end=727424 sample=../Audio/Bored Of Canada/95B5-98DN.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=1020 sample=../Audio/Bored Of Canada/95B5-O0LD.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1023 end=726162 sample=../Audio/Bored Of Canada/95B5-J2BC.aif
+<group> key=96 
+	<region> lovel=001 hivel=023 amp_velcurve_023=1 offset=1013 end=749440 sample=../Audio/Bored Of Canada/96C6-T6JE.aif
+	<region> lovel=024 hivel=068 amp_velcurve_068=1 offset=895 end=732160 sample=../Audio/Bored Of Canada/96C6-7UBR.aif
+	<region> lovel=069 hivel=127 amp_velcurve_127=1 offset=1017 end=742144 sample=../Audio/Bored Of Canada/96C6-CP4W.aif

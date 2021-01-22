@@ -7,7 +7,9 @@ An Alpha Juno with home keyboard speakers.
 -   **Approx Size:** 2GB
 -   **Info:** [vintagesynth.com](http://www.vintagesynth.com/roland/ajuno2.php)
 
-   **Audio**: https://www.dropbox.com/sh/b18ygn4pbq6zxaq/AAACIq9kNkZS_13nHfHIEZ6ba?dl=0
+**This collection requires you to download the audio seperately**
+
+[Download Audio from Dropbox](https://www.dropbox.com/sh/b18ygn4pbq6zxaq/AAACIq9kNkZS_13nHfHIEZ6ba?dl=0)
 
 # Loading
 
@@ -29,8 +31,9 @@ An Alpha Juno with home keyboard speakers.
 
 The SFZ format is supported by a wide variety of synths and samplers as such, specific loading instructions are not provided. See here for a [list of compatible instruments.](https://sfzformat.com/software/players/) 
 
-# Disks
+# Support this project
 
+[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)

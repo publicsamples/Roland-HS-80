@@ -1,0 +1,551 @@
+// this file was generated from ExcessiveVelocity.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=9609 loop_end=84787 sample=../Audio/ExcessiveVelocity/(20131219 22354)/36C1-XSK5.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1019 loop_end=73552 sample=../Audio/ExcessiveVelocity/(20131219 22354)/36C1-TK7U.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=42990 loop_end=120807 sample=../Audio/ExcessiveVelocity/(20131219 22354)/36C1-UPAA.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=164324 loop_end=242141 sample=../Audio/ExcessiveVelocity/(20131219 22354)/36C1-NPTD.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=140744 loop_end=218561 sample=../Audio/ExcessiveVelocity/(20131219 22354)/36C1-8M65.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=283128 loop_end=360945 sample=../Audio/ExcessiveVelocity/(20131219 22354)/36C1-M117.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=142116 loop_end=219933 sample=../Audio/ExcessiveVelocity/(20131219 22354)/36C1-BABF.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=204212 loop_end=282029 sample=../Audio/ExcessiveVelocity/(20131219 22354)/36C1-ATGX.aif
+<group> key=37 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=948 loop_end=74429 sample=../Audio/ExcessiveVelocity/(20131219 22354)/37C#1-88S6.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=10003 loop_end=84691 sample=../Audio/ExcessiveVelocity/(20131219 22354)/37C#1-PDM7.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=51184 loop_end=211953 sample=../Audio/ExcessiveVelocity/(20131219 22354)/37C#1-P8R8.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=168558 loop_end=329327 sample=../Audio/ExcessiveVelocity/(20131219 22354)/37C#1-QHCP.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=58110 loop_end=218879 sample=../Audio/ExcessiveVelocity/(20131219 22354)/37C#1-CF4U.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=202187 loop_end=364222 sample=../Audio/ExcessiveVelocity/(20131219 22354)/37C#1-XZ9P.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=143214 loop_end=302717 sample=../Audio/ExcessiveVelocity/(20131219 22354)/37C#1-1WA5.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=198045 loop_end=360080 sample=../Audio/ExcessiveVelocity/(20131219 22354)/37C#1-0QUC.aif
+<group> key=38 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=10694 loop_end=83703 sample=../Audio/ExcessiveVelocity/(20131219 22354)/38D1-CNH5.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1019 loop_end=72823 sample=../Audio/ExcessiveVelocity/(20131219 22354)/38D1-O4PM.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=67320 loop_end=356937 sample=../Audio/ExcessiveVelocity/(20131219 22354)/38D1-RCMZ.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=41445 loop_end=333456 sample=../Audio/ExcessiveVelocity/(20131219 22354)/38D1-KCCE.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=70254 loop_end=361069 sample=../Audio/ExcessiveVelocity/(20131219 22354)/38D1-1VPN.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=69359 loop_end=360174 sample=../Audio/ExcessiveVelocity/(20131219 22354)/38D1-AMPD.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=69357 loop_end=358975 sample=../Audio/ExcessiveVelocity/(20131219 22354)/38D1-24F1.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=61035 loop_end=350653 sample=../Audio/ExcessiveVelocity/(20131219 22354)/38D1-9GNM.aif
+<group> key=39 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=832 loop_end=217429 sample=../Audio/ExcessiveVelocity/(20131219 22354)/39D#1-ZWBN.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=776 loop_end=73044 sample=../Audio/ExcessiveVelocity/(20131219 22354)/39D#1-DTS8.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=99475 loop_end=352504 sample=../Audio/ExcessiveVelocity/(20131219 22354)/39D#1-FKYP.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=62995 loop_end=314895 sample=../Audio/ExcessiveVelocity/(20131219 22354)/39D#1-ASG7.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=68360 loop_end=319130 sample=../Audio/ExcessiveVelocity/(20131219 22354)/39D#1-L63Y.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=64162 loop_end=317191 sample=../Audio/ExcessiveVelocity/(20131219 22354)/39D#1-8VNW.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=76572 loop_end=327342 sample=../Audio/ExcessiveVelocity/(20131219 22354)/39D#1-CYIO.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72471 loop_end=323241 sample=../Audio/ExcessiveVelocity/(20131219 22354)/39D#1-B13B.aif
+<group> key=40 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=1019 loop_end=73532 sample=../Audio/ExcessiveVelocity/(20131219 22354)/40E1-LBSL.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=20865 loop_end=93359 sample=../Audio/ExcessiveVelocity/(20131219 22354)/40E1-9I81.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=231700 loop_end=309524 sample=../Audio/ExcessiveVelocity/(20131219 22354)/40E1-8WDI.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=262827 loop_end=339585 sample=../Audio/ExcessiveVelocity/(20131219 22354)/40E1-1MI5.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=159268 loop_end=237092 sample=../Audio/ExcessiveVelocity/(20131219 22354)/40E1-DTL4.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=77311 loop_end=155135 sample=../Audio/ExcessiveVelocity/(20131219 22354)/40E1-UGWH.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=185837 loop_end=263661 sample=../Audio/ExcessiveVelocity/(20131219 22354)/40E1-025O.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=58813 loop_end=135571 sample=../Audio/ExcessiveVelocity/(20131219 22354)/40E1-BVL5.aif
+<group> key=41 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=725 loop_end=74206 sample=../Audio/ExcessiveVelocity/(20131219 22354)/41F1-ZF0Q.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1019 loop_end=73350 sample=../Audio/ExcessiveVelocity/(20131219 22354)/41F1-22UD.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=249400 loop_end=358970 sample=../Audio/ExcessiveVelocity/(20131219 22354)/41F1-441B.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=211837 loop_end=321407 sample=../Audio/ExcessiveVelocity/(20131219 22354)/41F1-8A8K.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=56342 loop_end=331777 sample=../Audio/ExcessiveVelocity/(20131219 22354)/41F1-I9L5.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=66316 loop_end=339740 sample=../Audio/ExcessiveVelocity/(20131219 22354)/41F1-4VJC.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=249737 loop_end=359307 sample=../Audio/ExcessiveVelocity/(20131219 22354)/41F1-Z6LZ.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=156788 loop_end=265353 sample=../Audio/ExcessiveVelocity/(20131219 22354)/41F1-ZS5H.aif
+<group> key=42 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=840 loop_end=72922 sample=../Audio/ExcessiveVelocity/(20131219 22354)/42F#1-RUZ5.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1019 loop_end=73137 sample=../Audio/ExcessiveVelocity/(20131219 22354)/42F#1-7T67.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=254015 loop_end=331842 sample=../Audio/ExcessiveVelocity/(20131219 22354)/42F#1-B2U5.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=157729 loop_end=235556 sample=../Audio/ExcessiveVelocity/(20131219 22354)/42F#1-OHAQ.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=207811 loop_end=285638 sample=../Audio/ExcessiveVelocity/(20131219 22354)/42F#1-XZLR.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=214990 loop_end=291868 sample=../Audio/ExcessiveVelocity/(20131219 22354)/42F#1-YAJ9.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=155688 loop_end=232566 sample=../Audio/ExcessiveVelocity/(20131219 22354)/42F#1-JV17.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=92242 loop_end=169120 sample=../Audio/ExcessiveVelocity/(20131219 22354)/42F#1-16H9.aif
+<group> key=43 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=685 loop_end=74108 sample=../Audio/ExcessiveVelocity/(20131219 22354)/43G1-AIKI.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=20710 loop_end=95050 sample=../Audio/ExcessiveVelocity/(20131219 22354)/43G1-B6GB.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=20346 loop_end=363389 sample=../Audio/ExcessiveVelocity/(20131219 22354)/43G1-2I7Y.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=12950 loop_end=364054 sample=../Audio/ExcessiveVelocity/(20131219 22354)/43G1-U034.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=12169 loop_end=362378 sample=../Audio/ExcessiveVelocity/(20131219 22354)/43G1-5HVK.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=19782 loop_end=363721 sample=../Audio/ExcessiveVelocity/(20131219 22354)/43G1-GRWG.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=19741 loop_end=363680 sample=../Audio/ExcessiveVelocity/(20131219 22354)/43G1-XVGK.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20357 loop_end=364296 sample=../Audio/ExcessiveVelocity/(20131219 22354)/43G1-0J38.aif
+<group> key=44 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=797 loop_end=73450 sample=../Audio/ExcessiveVelocity/(20131219 22354)/44G#1-LVVN.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=991 loop_end=72856 sample=../Audio/ExcessiveVelocity/(20131219 22354)/44G#1-1D13.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=119114 loop_end=348310 sample=../Audio/ExcessiveVelocity/(20131219 22354)/44G#1-50CU.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=116491 loop_end=343150 sample=../Audio/ExcessiveVelocity/(20131219 22354)/44G#1-99TG.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=121988 loop_end=351184 sample=../Audio/ExcessiveVelocity/(20131219 22354)/44G#1-7PPL.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=53353 loop_end=283395 sample=../Audio/ExcessiveVelocity/(20131219 22354)/44G#1-9E2J.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=132008 loop_end=358667 sample=../Audio/ExcessiveVelocity/(20131219 22354)/44G#1-DEFC.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=126233 loop_end=356275 sample=../Audio/ExcessiveVelocity/(20131219 22354)/44G#1-VM83.aif
+<group> key=45 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=478 loop_end=73948 sample=../Audio/ExcessiveVelocity/(20131219 22354)/45A1-WHU5.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=945 loop_end=74347 sample=../Audio/ExcessiveVelocity/(20131219 22354)/45A1-NFL3.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=218576 loop_end=349422 sample=../Audio/ExcessiveVelocity/(20131219 22354)/45A1-PA26.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=85236 loop_end=215284 sample=../Audio/ExcessiveVelocity/(20131219 22354)/45A1-UQRG.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=220297 loop_end=351143 sample=../Audio/ExcessiveVelocity/(20131219 22354)/45A1-0CCJ.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=224063 loop_end=352516 sample=../Audio/ExcessiveVelocity/(20131219 22354)/45A1-Y6EU.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=212363 loop_end=343209 sample=../Audio/ExcessiveVelocity/(20131219 22354)/45A1-VC6P.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147678 loop_end=279322 sample=../Audio/ExcessiveVelocity/(20131219 22354)/45A1-OF7O.aif
+<group> key=46 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=169652 loop_end=260062 sample=../Audio/ExcessiveVelocity/(20131219 22354)/46A#1-Q6G9.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=768 loop_end=74607 sample=../Audio/ExcessiveVelocity/(20131219 22354)/46A#1-BAIX.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=36223 loop_end=313456 sample=../Audio/ExcessiveVelocity/(20131219 22354)/46A#1-1DFO.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=192412 loop_end=363422 sample=../Audio/ExcessiveVelocity/(20131219 22354)/46A#1-MJ14.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=115084 loop_end=220553 sample=../Audio/ExcessiveVelocity/(20131219 22354)/46A#1-7EIK.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=63884 loop_end=340364 sample=../Audio/ExcessiveVelocity/(20131219 22354)/46A#1-PQWQ.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=245453 loop_end=349415 sample=../Audio/ExcessiveVelocity/(20131219 22354)/46A#1-5FJO.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230797 loop_end=337019 sample=../Audio/ExcessiveVelocity/(20131219 22354)/46A#1-3EMH.aif
+<group> key=47 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=183678 loop_end=353614 sample=../Audio/ExcessiveVelocity/(20131219 22354)/47B1-6NI2.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1007 loop_end=73547 sample=../Audio/ExcessiveVelocity/(20131219 22354)/47B1-T7J4.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=24249 loop_end=349880 sample=../Audio/ExcessiveVelocity/(20131219 22354)/47B1-LP8I.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=141106 loop_end=279037 sample=../Audio/ExcessiveVelocity/(20131219 22354)/47B1-JABB.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=37252 loop_end=362884 sample=../Audio/ExcessiveVelocity/(20131219 22354)/47B1-2JQB.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=37080 loop_end=362712 sample=../Audio/ExcessiveVelocity/(20131219 22354)/47B1-MGMK.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=58906 loop_end=358942 sample=../Audio/ExcessiveVelocity/(20131219 22354)/47B1-DVGD.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=19400 loop_end=343610 sample=../Audio/ExcessiveVelocity/(20131219 22354)/47B1-0DBE.aif
+<group> key=48 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=235150 loop_end=325059 sample=../Audio/ExcessiveVelocity/(20131219 22354)/48C2-PYT3.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1019 loop_end=74216 sample=../Audio/ExcessiveVelocity/(20131219 22354)/48C2-LRLZ.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=58793 loop_end=361548 sample=../Audio/ExcessiveVelocity/(20131219 22354)/48C2-DV1U.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=123616 loop_end=344473 sample=../Audio/ExcessiveVelocity/(20131219 22354)/48C2-NFWI.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=125407 loop_end=246240 sample=../Audio/ExcessiveVelocity/(20131219 22354)/48C2-1L54.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=130636 loop_end=354178 sample=../Audio/ExcessiveVelocity/(20131219 22354)/48C2-RU77.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=236942 loop_end=357775 sample=../Audio/ExcessiveVelocity/(20131219 22354)/48C2-YTYC.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=172616 loop_end=353866 sample=../Audio/ExcessiveVelocity/(20131219 22354)/48C2-PL4C.aif
+<group> key=49 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=28340 loop_end=109393 sample=../Audio/ExcessiveVelocity/(20131219 22354)/49C#2-VR19.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=19550 loop_end=94285 sample=../Audio/ExcessiveVelocity/(20131219 22354)/49C#2-K4DB.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=252521 loop_end=362725 sample=../Audio/ExcessiveVelocity/(20131219 22354)/49C#2-0SVF.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=97932 loop_end=330374 sample=../Audio/ExcessiveVelocity/(20131219 22354)/49C#2-43DJ.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=190933 loop_end=360672 sample=../Audio/ExcessiveVelocity/(20131219 22354)/49C#2-J8VS.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=171991 loop_end=281561 sample=../Audio/ExcessiveVelocity/(20131219 22354)/49C#2-PCSD.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=149237 loop_end=320243 sample=../Audio/ExcessiveVelocity/(20131219 22354)/49C#2-AUL3.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=161034 loop_end=271871 sample=../Audio/ExcessiveVelocity/(20131219 22354)/49C#2-29HZ.aif
+<group> key=50 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=4691 loop_end=107487 sample=../Audio/ExcessiveVelocity/(20131219 22354)/50D2-H42X.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=9471 loop_end=84177 sample=../Audio/ExcessiveVelocity/(20131219 22354)/50D2-K7MO.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=199604 loop_end=346030 sample=../Audio/ExcessiveVelocity/(20131219 22354)/50D2-G84M.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=196667 loop_end=343691 sample=../Audio/ExcessiveVelocity/(20131219 22354)/50D2-MBZ4.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=209428 loop_end=363026 sample=../Audio/ExcessiveVelocity/(20131219 22354)/50D2-U4DH.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=193880 loop_end=347478 sample=../Audio/ExcessiveVelocity/(20131219 22354)/50D2-6ES0.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=194406 loop_end=346211 sample=../Audio/ExcessiveVelocity/(20131219 22354)/50D2-8MWX.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=200380 loop_end=353978 sample=../Audio/ExcessiveVelocity/(20131219 22354)/50D2-I6G7.aif
+<group> key=51 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=1226 loop_end=200425 sample=../Audio/ExcessiveVelocity/(20131219 22354)/51D#2-ZYTA.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=9467 loop_end=83369 sample=../Audio/ExcessiveVelocity/(20131219 22354)/51D#2-7V4Q.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=169131 loop_end=357557 sample=../Audio/ExcessiveVelocity/(20131219 22354)/51D#2-X4W2.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=251486 loop_end=362059 sample=../Audio/ExcessiveVelocity/(20131219 22354)/51D#2-YBG7.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=105330 loop_end=347915 sample=../Audio/ExcessiveVelocity/(20131219 22354)/51D#2-D88F.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=108220 loop_end=350805 sample=../Audio/ExcessiveVelocity/(20131219 22354)/51D#2-ZLWD.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=90684 loop_end=333269 sample=../Audio/ExcessiveVelocity/(20131219 22354)/51D#2-RXZZ.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=60970 loop_end=303555 sample=../Audio/ExcessiveVelocity/(20131219 22354)/51D#2-MK33.aif
+<group> key=52 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=92436 loop_end=335756 sample=../Audio/ExcessiveVelocity/(20131219 22354)/52E2-WE72.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=19764 loop_end=94310 sample=../Audio/ExcessiveVelocity/(20131219 22354)/52E2-MMWF.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=173547 loop_end=266196 sample=../Audio/ExcessiveVelocity/(20131219 22354)/52E2-J55Q.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=84016 loop_end=323095 sample=../Audio/ExcessiveVelocity/(20131219 22354)/52E2-Q69A.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=86065 loop_end=325677 sample=../Audio/ExcessiveVelocity/(20131219 22354)/52E2-KLOA.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=121462 loop_end=361074 sample=../Audio/ExcessiveVelocity/(20131219 22354)/52E2-MBI4.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=110785 loop_end=350397 sample=../Audio/ExcessiveVelocity/(20131219 22354)/52E2-NLZ1.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=91799 loop_end=331411 sample=../Audio/ExcessiveVelocity/(20131219 22354)/52E2-H0T0.aif
+<group> key=53 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=41141 loop_end=363178 sample=../Audio/ExcessiveVelocity/(20131219 22354)/53F2-EBOM.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=427 loop_end=73325 sample=../Audio/ExcessiveVelocity/(20131219 22354)/53F2-RCIC.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=229391 loop_end=312322 sample=../Audio/ExcessiveVelocity/(20131219 22354)/53F2-98OW.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=188282 loop_end=271213 sample=../Audio/ExcessiveVelocity/(20131219 22354)/53F2-2FPN.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=190885 loop_end=273816 sample=../Audio/ExcessiveVelocity/(20131219 22354)/53F2-KAPF.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=102611 loop_end=187050 sample=../Audio/ExcessiveVelocity/(20131219 22354)/53F2-Q7GB.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=120768 loop_end=202694 sample=../Audio/ExcessiveVelocity/(20131219 22354)/53F2-N0F4.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=197670 loop_end=281104 sample=../Audio/ExcessiveVelocity/(20131219 22354)/53F2-NF63.aif
+<group> key=54 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=175099 loop_end=254442 sample=../Audio/ExcessiveVelocity/(20131219 22354)/54F#2-ZT74.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=10196 loop_end=83279 sample=../Audio/ExcessiveVelocity/(20131219 22354)/54F#2-7V9I.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=143486 loop_end=356563 sample=../Audio/ExcessiveVelocity/(20131219 22354)/54F#2-URS0.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=180998 loop_end=298214 sample=../Audio/ExcessiveVelocity/(20131219 22354)/54F#2-PNFI.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=227780 loop_end=343572 sample=../Audio/ExcessiveVelocity/(20131219 22354)/54F#2-R97U.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=153148 loop_end=288872 sample=../Audio/ExcessiveVelocity/(20131219 22354)/54F#2-AHH8.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=167342 loop_end=304964 sample=../Audio/ExcessiveVelocity/(20131219 22354)/54F#2-MNAR.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=201048 loop_end=337721 sample=../Audio/ExcessiveVelocity/(20131219 22354)/54F#2-IDP7.aif
+<group> key=55 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=210585 loop_end=310126 sample=../Audio/ExcessiveVelocity/(20131219 22354)/55G2-9AEA.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=10913 loop_end=84359 sample=../Audio/ExcessiveVelocity/(20131219 22354)/55G2-BS5S.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=173808 loop_end=254866 sample=../Audio/ExcessiveVelocity/(20131219 22354)/55G2-6D8A.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=126893 loop_end=338720 sample=../Audio/ExcessiveVelocity/(20131219 22354)/55G2-JMCU.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=129344 loop_end=340275 sample=../Audio/ExcessiveVelocity/(20131219 22354)/55G2-CELI.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=201309 loop_end=362530 sample=../Audio/ExcessiveVelocity/(20131219 22354)/55G2-P60G.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=119713 loop_end=280486 sample=../Audio/ExcessiveVelocity/(20131219 22354)/55G2-787D.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=201366 loop_end=362139 sample=../Audio/ExcessiveVelocity/(20131219 22354)/55G2-ZURT.aif
+<group> key=56 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=167627 loop_end=352999 sample=../Audio/ExcessiveVelocity/(20131219 22354)/56G#2-MQ7V.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=744 loop_end=73024 sample=../Audio/ExcessiveVelocity/(20131219 22354)/56G#2-EWMW.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=210587 loop_end=342043 sample=../Audio/ExcessiveVelocity/(20131219 22354)/56G#2-MY72.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=208020 loop_end=314537 sample=../Audio/ExcessiveVelocity/(20131219 22354)/56G#2-KHG5.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=68693 loop_end=215366 sample=../Audio/ExcessiveVelocity/(20131219 22354)/56G#2-3K7E.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=149789 loop_end=322669 sample=../Audio/ExcessiveVelocity/(20131219 22354)/56G#2-IU3U.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=193607 loop_end=285753 sample=../Audio/ExcessiveVelocity/(20131219 22354)/56G#2-80MO.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=90383 loop_end=182529 sample=../Audio/ExcessiveVelocity/(20131219 22354)/56G#2-5NLK.aif
+<group> key=57 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=220154 loop_end=353412 sample=../Audio/ExcessiveVelocity/(20131219 22354)/57A2-BNV1.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=21489 loop_end=93292 sample=../Audio/ExcessiveVelocity/(20131219 22354)/57A2-09NG.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=147417 loop_end=239966 sample=../Audio/ExcessiveVelocity/(20131219 22354)/57A2-1DCZ.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=211887 loop_end=340738 sample=../Audio/ExcessiveVelocity/(20131219 22354)/57A2-GHM2.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=101758 loop_end=354675 sample=../Audio/ExcessiveVelocity/(20131219 22354)/57A2-WKD3.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=178481 loop_end=308928 sample=../Audio/ExcessiveVelocity/(20131219 22354)/57A2-EVEE.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=86260 loop_end=217904 sample=../Audio/ExcessiveVelocity/(20131219 22354)/57A2-V5WS.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=177814 loop_end=314644 sample=../Audio/ExcessiveVelocity/(20131219 22354)/57A2-VPLI.aif
+<group> key=58 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=2731 loop_end=344239 sample=../Audio/ExcessiveVelocity/(20131219 22354)/58A#2-WFWK.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=656 loop_end=74074 sample=../Audio/ExcessiveVelocity/(20131219 22354)/58A#2-YWBR.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=125632 loop_end=202067 sample=../Audio/ExcessiveVelocity/(20131219 22354)/58A#2-1GX0.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=227575 loop_end=329238 sample=../Audio/ExcessiveVelocity/(20131219 22354)/58A#2-3I8H.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=14671 loop_end=343760 sample=../Audio/ExcessiveVelocity/(20131219 22354)/58A#2-FZIB.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=34214 loop_end=362550 sample=../Audio/ExcessiveVelocity/(20131219 22354)/58A#2-XUQ7.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=249043 loop_end=357860 sample=../Audio/ExcessiveVelocity/(20131219 22354)/58A#2-64L0.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142839 loop_end=363110 sample=../Audio/ExcessiveVelocity/(20131219 22354)/58A#2-BK5Q.aif
+<group> key=59 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=105854 loop_end=192831 sample=../Audio/ExcessiveVelocity/(20131219 22354)/59B2-LBNX.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=9991 loop_end=84976 sample=../Audio/ExcessiveVelocity/(20131219 22354)/59B2-VU7M.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=202734 loop_end=361581 sample=../Audio/ExcessiveVelocity/(20131219 22354)/59B2-80NI.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=142431 loop_end=229495 sample=../Audio/ExcessiveVelocity/(20131219 22354)/59B2-927A.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=44740 loop_end=355684 sample=../Audio/ExcessiveVelocity/(20131219 22354)/59B2-90YV.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=257078 loop_end=334902 sample=../Audio/ExcessiveVelocity/(20131219 22354)/59B2-TM36.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=94312 loop_end=328497 sample=../Audio/ExcessiveVelocity/(20131219 22354)/59B2-C54W.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=113454 loop_end=346573 sample=../Audio/ExcessiveVelocity/(20131219 22354)/59B2-POF5.aif
+<group> key=60 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=58830 loop_end=349187 sample=../Audio/ExcessiveVelocity/(20131219 22354)/60C3-CRSV.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=205449 loop_end=303724 sample=../Audio/ExcessiveVelocity/(20131219 22354)/60C3-41SJ.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=108597 loop_end=203856 sample=../Audio/ExcessiveVelocity/(20131219 22354)/60C3-0AFN.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=69693 loop_end=225328 sample=../Audio/ExcessiveVelocity/(20131219 22354)/60C3-RDZ5.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=185000 loop_end=301055 sample=../Audio/ExcessiveVelocity/(20131219 22354)/60C3-AN3I.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=76942 loop_end=190649 sample=../Audio/ExcessiveVelocity/(20131219 22354)/60C3-88QH.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=215265 loop_end=328972 sample=../Audio/ExcessiveVelocity/(20131219 22354)/60C3-G5ZN.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=204507 loop_end=318214 sample=../Audio/ExcessiveVelocity/(20131219 22354)/60C3-JKWL.aif
+<group> key=61 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=260314 loop_end=350940 sample=../Audio/ExcessiveVelocity/(20131219 22354)/61C#3-B2ZJ.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=282 loop_end=123260 sample=../Audio/ExcessiveVelocity/(20131219 22354)/61C#3-DP4K.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=151055 loop_end=246691 sample=../Audio/ExcessiveVelocity/(20131219 22354)/61C#3-QDP6.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=87600 loop_end=166769 sample=../Audio/ExcessiveVelocity/(20131219 22354)/61C#3-X83R.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=230318 loop_end=339888 sample=../Audio/ExcessiveVelocity/(20131219 22354)/61C#3-GDRH.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=88227 loop_end=185130 sample=../Audio/ExcessiveVelocity/(20131219 22354)/61C#3-5GVN.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=206241 loop_end=303144 sample=../Audio/ExcessiveVelocity/(20131219 22354)/61C#3-5V2Y.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240493 loop_end=314595 sample=../Audio/ExcessiveVelocity/(20131219 22354)/61C#3-806I.aif
+<group> key=62 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=16740 loop_end=97015 sample=../Audio/ExcessiveVelocity/(20131219 22354)/62D3-N98D.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=446 loop_end=216250 sample=../Audio/ExcessiveVelocity/(20131219 22354)/62D3-5PSP.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=960 loop_end=74492 sample=../Audio/ExcessiveVelocity/(20131219 22354)/62D3-W6CI.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=117180 loop_end=343761 sample=../Audio/ExcessiveVelocity/(20131219 22354)/62D3-PIXX.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=161648 loop_end=286596 sample=../Audio/ExcessiveVelocity/(20131219 22354)/62D3-FOMR.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=155831 loop_end=363879 sample=../Audio/ExcessiveVelocity/(20131219 22354)/62D3-S6ID.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=176682 loop_end=252308 sample=../Audio/ExcessiveVelocity/(20131219 22354)/62D3-Y1A4.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=221301 loop_end=346249 sample=../Audio/ExcessiveVelocity/(20131219 22354)/62D3-4PAK.aif
+<group> key=63 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=113730 loop_end=354647 sample=../Audio/ExcessiveVelocity/(20131219 22354)/63D#3-14WJ.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=94 loop_end=182313 sample=../Audio/ExcessiveVelocity/(20131219 22354)/63D#3-BFR6.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=204556 loop_end=353773 sample=../Audio/ExcessiveVelocity/(20131219 22354)/63D#3-6S3G.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=169384 loop_end=356118 sample=../Audio/ExcessiveVelocity/(20131219 22354)/63D#3-HPEP.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=197758 loop_end=274200 sample=../Audio/ExcessiveVelocity/(20131219 22354)/63D#3-GMG7.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=94108 loop_end=340360 sample=../Audio/ExcessiveVelocity/(20131219 22354)/63D#3-DJMG.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=222638 loop_end=314312 sample=../Audio/ExcessiveVelocity/(20131219 22354)/63D#3-6E27.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147053 loop_end=228008 sample=../Audio/ExcessiveVelocity/(20131219 22354)/63D#3-KXTP.aif
+<group> key=64 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=31204 loop_end=104499 sample=../Audio/ExcessiveVelocity/(20131219 22354)/64E3-TUHP.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=152817 loop_end=233239 sample=../Audio/ExcessiveVelocity/(20131219 22354)/64E3-3NZS.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=58754 loop_end=172436 sample=../Audio/ExcessiveVelocity/(20131219 22354)/64E3-LKNS.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=257121 loop_end=338056 sample=../Audio/ExcessiveVelocity/(20131219 22354)/64E3-Y7ZK.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=180828 loop_end=261763 sample=../Audio/ExcessiveVelocity/(20131219 22354)/64E3-NOGZ.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=193441 loop_end=357708 sample=../Audio/ExcessiveVelocity/(20131219 22354)/64E3-OJSV.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=176035 loop_end=341367 sample=../Audio/ExcessiveVelocity/(20131219 22354)/64E3-4O2G.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=195202 loop_end=360534 sample=../Audio/ExcessiveVelocity/(20131219 22354)/64E3-U6JH.aif
+<group> key=65 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=15883 loop_end=352702 sample=../Audio/ExcessiveVelocity/(20131219 22354)/65F3-LHNQ.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=146 loop_end=225669 sample=../Audio/ExcessiveVelocity/(20131219 22354)/65F3-9MFW.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=196760 loop_end=362624 sample=../Audio/ExcessiveVelocity/(20131219 22354)/65F3-LXB7.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=200672 loop_end=282598 sample=../Audio/ExcessiveVelocity/(20131219 22354)/65F3-W9T8.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=143639 loop_end=228832 sample=../Audio/ExcessiveVelocity/(20131219 22354)/65F3-ZVIQ.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=100663 loop_end=182589 sample=../Audio/ExcessiveVelocity/(20131219 22354)/65F3-OR0Y.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=261981 loop_end=347928 sample=../Audio/ExcessiveVelocity/(20131219 22354)/65F3-HBHY.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253519 loop_end=339466 sample=../Audio/ExcessiveVelocity/(20131219 22354)/65F3-CR45.aif
+<group> key=66 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=93643 loop_end=169649 sample=../Audio/ExcessiveVelocity/(20131219 22354)/66F#3-ZAS8.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=137 loop_end=213924 sample=../Audio/ExcessiveVelocity/(20131219 22354)/66F#3-QBDN.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=49305 loop_end=125197 sample=../Audio/ExcessiveVelocity/(20131219 22354)/66F#3-1KUJ.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=217337 loop_end=292755 sample=../Audio/ExcessiveVelocity/(20131219 22354)/66F#3-NGLG.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=235808 loop_end=316681 sample=../Audio/ExcessiveVelocity/(20131219 22354)/66F#3-UGML.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=174819 loop_end=353879 sample=../Audio/ExcessiveVelocity/(20131219 22354)/66F#3-LGLF.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=206519 loop_end=280277 sample=../Audio/ExcessiveVelocity/(20131219 22354)/66F#3-SMEL.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226110 loop_end=332597 sample=../Audio/ExcessiveVelocity/(20131219 22354)/66F#3-HPZQ.aif
+<group> key=67 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=115879 loop_end=339971 sample=../Audio/ExcessiveVelocity/(20131219 22354)/67G3-LRUU.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=80 loop_end=213598 sample=../Audio/ExcessiveVelocity/(20131219 22354)/67G3-X4I9.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=265696 loop_end=362182 sample=../Audio/ExcessiveVelocity/(20131219 22354)/67G3-XDYO.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=262445 loop_end=364304 sample=../Audio/ExcessiveVelocity/(20131219 22354)/67G3-LMOI.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=172792 loop_end=245996 sample=../Audio/ExcessiveVelocity/(20131219 22354)/67G3-GV4G.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=155658 loop_end=281471 sample=../Audio/ExcessiveVelocity/(20131219 22354)/67G3-79SG.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=201397 loop_end=359671 sample=../Audio/ExcessiveVelocity/(20131219 22354)/67G3-7G3F.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=218047 loop_end=292818 sample=../Audio/ExcessiveVelocity/(20131219 22354)/67G3-A4Q6.aif
+<group> key=68 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=167797 loop_end=244510 sample=../Audio/ExcessiveVelocity/(20131219 22354)/68G#3-XDQM.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=148 loop_end=206897 sample=../Audio/ExcessiveVelocity/(20131219 22354)/68G#3-D35I.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=149919 loop_end=226620 sample=../Audio/ExcessiveVelocity/(20131219 22354)/68G#3-TR3C.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=211746 loop_end=286334 sample=../Audio/ExcessiveVelocity/(20131219 22354)/68G#3-8QWT.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=223059 loop_end=348782 sample=../Audio/ExcessiveVelocity/(20131219 22354)/68G#3-9INV.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=164714 loop_end=359321 sample=../Audio/ExcessiveVelocity/(20131219 22354)/68G#3-97FP.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=280326 loop_end=353435 sample=../Audio/ExcessiveVelocity/(20131219 22354)/68G#3-DDL9.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267723 loop_end=347805 sample=../Audio/ExcessiveVelocity/(20131219 22354)/68G#3-5EYQ.aif
+<group> key=69 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=159071 loop_end=362583 sample=../Audio/ExcessiveVelocity/(20131219 22354)/69A3-Q6EB.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=444 loop_end=227321 sample=../Audio/ExcessiveVelocity/(20131219 22354)/69A3-75R7.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=272647 loop_end=362603 sample=../Audio/ExcessiveVelocity/(20131219 22354)/69A3-6JCI.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=46951 loop_end=358510 sample=../Audio/ExcessiveVelocity/(20131219 22354)/69A3-WQ64.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=82544 loop_end=155945 sample=../Audio/ExcessiveVelocity/(20131219 22354)/69A3-PELX.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=167682 loop_end=351585 sample=../Audio/ExcessiveVelocity/(20131219 22354)/69A3-L981.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=253022 loop_end=363124 sample=../Audio/ExcessiveVelocity/(20131219 22354)/69A3-8H97.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=262974 loop_end=362704 sample=../Audio/ExcessiveVelocity/(20131219 22354)/69A3-9XCJ.aif
+<group> key=70 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=160778 loop_end=354297 sample=../Audio/ExcessiveVelocity/(20131219 22354)/70A#3-78JV.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=90305 loop_end=350310 sample=../Audio/ExcessiveVelocity/(20131219 22354)/70A#3-SBLW.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=237131 loop_end=345007 sample=../Audio/ExcessiveVelocity/(20131219 22354)/70A#3-EK17.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=192252 loop_end=360373 sample=../Audio/ExcessiveVelocity/(20131219 22354)/70A#3-89FX.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=197631 loop_end=308519 sample=../Audio/ExcessiveVelocity/(20131219 22354)/70A#3-M0GX.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=248272 loop_end=359160 sample=../Audio/ExcessiveVelocity/(20131219 22354)/70A#3-QQZS.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=216694 loop_end=327582 sample=../Audio/ExcessiveVelocity/(20131219 22354)/70A#3-T3LD.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=218326 loop_end=329214 sample=../Audio/ExcessiveVelocity/(20131219 22354)/70A#3-F642.aif
+<group> key=71 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=197936 loop_end=283858 sample=../Audio/ExcessiveVelocity/(20131219 22354)/71B3-TA51.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=199436 loop_end=327884 sample=../Audio/ExcessiveVelocity/(20131219 22354)/71B3-CY87.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=59730 loop_end=344377 sample=../Audio/ExcessiveVelocity/(20131219 22354)/71B3-1I6G.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=165356 loop_end=278006 sample=../Audio/ExcessiveVelocity/(20131219 22354)/71B3-AN1T.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=165455 loop_end=272419 sample=../Audio/ExcessiveVelocity/(20131219 22354)/71B3-K0ID.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=196651 loop_end=310367 sample=../Audio/ExcessiveVelocity/(20131219 22354)/71B3-LAAR.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=112793 loop_end=221534 sample=../Audio/ExcessiveVelocity/(20131219 22354)/71B3-OIR1.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=183695 loop_end=292969 sample=../Audio/ExcessiveVelocity/(20131219 22354)/71B3-AKKG.aif
+<group> key=72 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=116188 loop_end=362810 sample=../Audio/ExcessiveVelocity/(20131219 22354)/72C4-DIKP.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=113436 loop_end=344276 sample=../Audio/ExcessiveVelocity/(20131219 22354)/72C4-Y2F6.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=152273 loop_end=242333 sample=../Audio/ExcessiveVelocity/(20131219 22354)/72C4-EWVX.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=110499 loop_end=348312 sample=../Audio/ExcessiveVelocity/(20131219 22354)/72C4-730X.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=190147 loop_end=298152 sample=../Audio/ExcessiveVelocity/(20131219 22354)/72C4-1GM3.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=126338 loop_end=221429 sample=../Audio/ExcessiveVelocity/(20131219 22354)/72C4-BCY4.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=214002 loop_end=316137 sample=../Audio/ExcessiveVelocity/(20131219 22354)/72C4-97TN.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269267 loop_end=362681 sample=../Audio/ExcessiveVelocity/(20131219 22354)/72C4-HVNI.aif
+<group> key=73 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=133627 loop_end=359565 sample=../Audio/ExcessiveVelocity/(20131219 22354)/73C#4-HKT7.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=460 loop_end=238223 sample=../Audio/ExcessiveVelocity/(20131219 22354)/73C#4-XH6H.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=50070 loop_end=362531 sample=../Audio/ExcessiveVelocity/(20131219 22354)/73C#4-99WZ.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=119196 loop_end=207362 sample=../Audio/ExcessiveVelocity/(20131219 22354)/73C#4-CTGY.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=174264 loop_end=333660 sample=../Audio/ExcessiveVelocity/(20131219 22354)/73C#4-JYDG.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=134904 loop_end=231301 sample=../Audio/ExcessiveVelocity/(20131219 22354)/73C#4-NKHF.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=237838 loop_end=323313 sample=../Audio/ExcessiveVelocity/(20131219 22354)/73C#4-JQXM.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240835 loop_end=337232 sample=../Audio/ExcessiveVelocity/(20131219 22354)/73C#4-NU0J.aif
+<group> key=74 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=129440 loop_end=228875 sample=../Audio/ExcessiveVelocity/(20131219 22354)/74D4-JJSW.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=222396 loop_end=301147 sample=../Audio/ExcessiveVelocity/(20131219 22354)/74D4-OT7T.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=137957 loop_end=210721 sample=../Audio/ExcessiveVelocity/(20131219 22354)/74D4-YFST.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=70534 loop_end=147930 sample=../Audio/ExcessiveVelocity/(20131219 22354)/74D4-64PV.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=181237 loop_end=257587 sample=../Audio/ExcessiveVelocity/(20131219 22354)/74D4-8EVZ.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=242524 loop_end=318127 sample=../Audio/ExcessiveVelocity/(20131219 22354)/74D4-8QP0.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=272044 loop_end=348693 sample=../Audio/ExcessiveVelocity/(20131219 22354)/74D4-ZNR2.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225330 loop_end=301979 sample=../Audio/ExcessiveVelocity/(20131219 22354)/74D4-M514.aif
+<group> key=75 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=62057 loop_end=167368 sample=../Audio/ExcessiveVelocity/(20131219 22354)/75D#4-79HK.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=124 loop_end=219450 sample=../Audio/ExcessiveVelocity/(20131219 22354)/75D#4-0GQ6.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=114120 loop_end=353992 sample=../Audio/ExcessiveVelocity/(20131219 22354)/75D#4-I2EZ.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=101399 loop_end=284158 sample=../Audio/ExcessiveVelocity/(20131219 22354)/75D#4-AQDJ.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=214739 loop_end=359564 sample=../Audio/ExcessiveVelocity/(20131219 22354)/75D#4-M3YL.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=158540 loop_end=342991 sample=../Audio/ExcessiveVelocity/(20131219 22354)/75D#4-47DH.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=277621 loop_end=354193 sample=../Audio/ExcessiveVelocity/(20131219 22354)/75D#4-JL92.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=227227 loop_end=335528 sample=../Audio/ExcessiveVelocity/(20131219 22354)/75D#4-0IT6.aif
+<group> key=76 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=194732 loop_end=280741 sample=../Audio/ExcessiveVelocity/(20131219 22354)/76E4-1EFH.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=109124 loop_end=193529 sample=../Audio/ExcessiveVelocity/(20131219 22354)/76E4-2Z2W.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=91755 loop_end=353962 sample=../Audio/ExcessiveVelocity/(20131219 22354)/76E4-89HZ.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=62430 loop_end=318381 sample=../Audio/ExcessiveVelocity/(20131219 22354)/76E4-GIIU.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=158070 loop_end=338287 sample=../Audio/ExcessiveVelocity/(20131219 22354)/76E4-EOOK.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=134269 loop_end=208671 sample=../Audio/ExcessiveVelocity/(20131219 22354)/76E4-HLND.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=123245 loop_end=197514 sample=../Audio/ExcessiveVelocity/(20131219 22354)/76E4-773S.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282604 loop_end=358204 sample=../Audio/ExcessiveVelocity/(20131219 22354)/76E4-QVY5.aif
+<group> key=77 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=65214 loop_end=151198 sample=../Audio/ExcessiveVelocity/(20131219 22354)/77F4-C7BP.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=155 loop_end=243841 sample=../Audio/ExcessiveVelocity/(20131219 22354)/77F4-RXT7.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=252966 loop_end=328726 sample=../Audio/ExcessiveVelocity/(20131219 22354)/77F4-QLFP.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=138910 loop_end=221831 sample=../Audio/ExcessiveVelocity/(20131219 22354)/77F4-7PTR.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=138794 loop_end=245335 sample=../Audio/ExcessiveVelocity/(20131219 22354)/77F4-7Z93.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=213205 loop_end=364222 sample=../Audio/ExcessiveVelocity/(20131219 22354)/77F4-9FAL.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=164153 loop_end=347208 sample=../Audio/ExcessiveVelocity/(20131219 22354)/77F4-E8R2.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224301 loop_end=340893 sample=../Audio/ExcessiveVelocity/(20131219 22354)/77F4-AEAA.aif
+<group> key=78 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=195873 loop_end=325157 sample=../Audio/ExcessiveVelocity/(20131219 22354)/78F#4-4G01.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=252 loop_end=221174 sample=../Audio/ExcessiveVelocity/(20131219 22354)/78F#4-Z5PW.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=132515 loop_end=342289 sample=../Audio/ExcessiveVelocity/(20131219 22354)/78F#4-VUTF.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=27229 loop_end=134902 sample=../Audio/ExcessiveVelocity/(20131219 22354)/78F#4-50JZ.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=172595 loop_end=347979 sample=../Audio/ExcessiveVelocity/(20131219 22354)/78F#4-JH8Y.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=274062 loop_end=349243 sample=../Audio/ExcessiveVelocity/(20131219 22354)/78F#4-58WJ.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=210847 loop_end=351486 sample=../Audio/ExcessiveVelocity/(20131219 22354)/78F#4-LCIT.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243780 loop_end=347421 sample=../Audio/ExcessiveVelocity/(20131219 22354)/78F#4-31VJ.aif
+<group> key=79 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=126606 loop_end=206986 sample=../Audio/ExcessiveVelocity/(20131219 22354)/79G4-IDF7.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=111 loop_end=201268 sample=../Audio/ExcessiveVelocity/(20131219 22354)/79G4-ZCM7.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=229 loop_end=304128 sample=../Audio/ExcessiveVelocity/(20131219 22354)/79G4-5KP9.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=258874 loop_end=347301 sample=../Audio/ExcessiveVelocity/(20131219 22354)/79G4-O1D7.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=224194 loop_end=351350 sample=../Audio/ExcessiveVelocity/(20131219 22354)/79G4-VU6J.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=264418 loop_end=346017 sample=../Audio/ExcessiveVelocity/(20131219 22354)/79G4-B9HG.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=241988 loop_end=345750 sample=../Audio/ExcessiveVelocity/(20131219 22354)/79G4-5L2O.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=231575 loop_end=331979 sample=../Audio/ExcessiveVelocity/(20131219 22354)/79G4-VY5L.aif
+<group> key=80 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=10737 loop_end=342571 sample=../Audio/ExcessiveVelocity/(20131219 22354)/80G#4-RLDT.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=167023 loop_end=267580 sample=../Audio/ExcessiveVelocity/(20131219 22354)/80G#4-L2KQ.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=0 loop_end=239607 sample=../Audio/ExcessiveVelocity/(20131219 22354)/80G#4-KY67.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3360 loop_end=76891 sample=../Audio/ExcessiveVelocity/(20131219 22354)/80G#4-SZLW.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=49856 loop_end=125078 sample=../Audio/ExcessiveVelocity/(20131219 22354)/80G#4-XULV.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=262527 loop_end=362260 sample=../Audio/ExcessiveVelocity/(20131219 22354)/80G#4-W5V3.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=231624 loop_end=328927 sample=../Audio/ExcessiveVelocity/(20131219 22354)/80G#4-SWD3.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264082 loop_end=363181 sample=../Audio/ExcessiveVelocity/(20131219 22354)/80G#4-P4OO.aif
+<group> key=81 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=61009 loop_end=230763 sample=../Audio/ExcessiveVelocity/(20131219 22354)/81A4-CVEO.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=150 loop_end=259589 sample=../Audio/ExcessiveVelocity/(20131219 22354)/81A4-QSYQ.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=15 loop_end=237125 sample=../Audio/ExcessiveVelocity/(20131219 22354)/81A4-OCYG.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=70980 loop_end=158525 sample=../Audio/ExcessiveVelocity/(20131219 22354)/81A4-N8LE.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=100162 loop_end=361902 sample=../Audio/ExcessiveVelocity/(20131219 22354)/81A4-CUBI.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=138156 loop_end=222311 sample=../Audio/ExcessiveVelocity/(20131219 22354)/81A4-GC7T.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=132140 loop_end=220084 sample=../Audio/ExcessiveVelocity/(20131219 22354)/81A4-85JY.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141912 loop_end=227762 sample=../Audio/ExcessiveVelocity/(20131219 22354)/81A4-6435.aif
+<group> key=82 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=41295 loop_end=127254 sample=../Audio/ExcessiveVelocity/(20131219 22354)/82A#4-JV6D.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=37883 loop_end=339745 sample=../Audio/ExcessiveVelocity/(20131219 22354)/82A#4-DGA7.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=179419 loop_end=259133 sample=../Audio/ExcessiveVelocity/(20131219 22354)/82A#4-0XDH.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=178456 loop_end=254594 sample=../Audio/ExcessiveVelocity/(20131219 22354)/82A#4-45XR.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=163805 loop_end=241261 sample=../Audio/ExcessiveVelocity/(20131219 22354)/82A#4-YUCT.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=153865 loop_end=362800 sample=../Audio/ExcessiveVelocity/(20131219 22354)/82A#4-YQ2O.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=212332 loop_end=289035 sample=../Audio/ExcessiveVelocity/(20131219 22354)/82A#4-MPAA.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256660 loop_end=361127 sample=../Audio/ExcessiveVelocity/(20131219 22354)/82A#4-DSYU.aif
+<group> key=83 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=81265 loop_end=354221 sample=../Audio/ExcessiveVelocity/(20131219 22354)/83B4-5HWK.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=104179 loop_end=363351 sample=../Audio/ExcessiveVelocity/(20131219 22354)/83B4-9HMY.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=66 loop_end=222494 sample=../Audio/ExcessiveVelocity/(20131219 22354)/83B4-SG1F.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=107961 loop_end=229662 sample=../Audio/ExcessiveVelocity/(20131219 22354)/83B4-QKQR.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=169680 loop_end=269883 sample=../Audio/ExcessiveVelocity/(20131219 22354)/83B4-RKRI.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=106383 loop_end=181624 sample=../Audio/ExcessiveVelocity/(20131219 22354)/83B4-03H4.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=231077 loop_end=333501 sample=../Audio/ExcessiveVelocity/(20131219 22354)/83B4-GNT8.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=217762 loop_end=320186 sample=../Audio/ExcessiveVelocity/(20131219 22354)/83B4-YCYQ.aif
+<group> key=84 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=161772 loop_end=355320 sample=../Audio/ExcessiveVelocity/(20131219 22354)/84C5-WRF3.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=112 loop_end=230185 sample=../Audio/ExcessiveVelocity/(20131219 22354)/84C5-7EJF.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=104 loop_end=154231 sample=../Audio/ExcessiveVelocity/(20131219 22354)/84C5-UVXU.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=198074 loop_end=356630 sample=../Audio/ExcessiveVelocity/(20131219 22354)/84C5-8N2Q.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=77362 loop_end=360349 sample=../Audio/ExcessiveVelocity/(20131219 22354)/84C5-YJYT.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=173525 loop_end=287390 sample=../Audio/ExcessiveVelocity/(20131219 22354)/84C5-DNJ4.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=205835 loop_end=303685 sample=../Audio/ExcessiveVelocity/(20131219 22354)/84C5-G6VP.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=220404 loop_end=332089 sample=../Audio/ExcessiveVelocity/(20131219 22354)/84C5-FLLE.aif
+<group> key=85 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=137293 loop_end=358838 sample=../Audio/ExcessiveVelocity/(20131219 22354)/85C#5-ZT4V.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=76868 loop_end=362873 sample=../Audio/ExcessiveVelocity/(20131219 22354)/85C#5-OPOT.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=85 loop_end=226758 sample=../Audio/ExcessiveVelocity/(20131219 22354)/85C#5-RBUN.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=177906 loop_end=279368 sample=../Audio/ExcessiveVelocity/(20131219 22354)/85C#5-QNZH.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=162694 loop_end=266135 sample=../Audio/ExcessiveVelocity/(20131219 22354)/85C#5-QNAE.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=159679 loop_end=236923 sample=../Audio/ExcessiveVelocity/(20131219 22354)/85C#5-FZ08.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=203456 loop_end=306976 sample=../Audio/ExcessiveVelocity/(20131219 22354)/85C#5-PU98.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=217112 loop_end=302587 sample=../Audio/ExcessiveVelocity/(20131219 22354)/85C#5-76J2.aif
+<group> key=86 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=68388 loop_end=354222 sample=../Audio/ExcessiveVelocity/(20131219 22354)/86D5-0HE9.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=135127 loop_end=225760 sample=../Audio/ExcessiveVelocity/(20131219 22354)/86D5-AD0H.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=0 loop_end=256913 sample=../Audio/ExcessiveVelocity/(20131219 22354)/86D5-5VC5.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=156762 loop_end=232135 sample=../Audio/ExcessiveVelocity/(20131219 22354)/86D5-RGCA.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=208352 loop_end=285817 sample=../Audio/ExcessiveVelocity/(20131219 22354)/86D5-OBKL.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=257233 loop_end=345455 sample=../Audio/ExcessiveVelocity/(20131219 22354)/86D5-7T7X.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=270506 loop_end=362239 sample=../Audio/ExcessiveVelocity/(20131219 22354)/86D5-WARK.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=250346 loop_end=342079 sample=../Audio/ExcessiveVelocity/(20131219 22354)/86D5-MK8E.aif
+<group> key=87 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=283815 loop_end=362923 sample=../Audio/ExcessiveVelocity/(20131219 22354)/87D#5-L49W.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=13307 loop_end=91201 sample=../Audio/ExcessiveVelocity/(20131219 22354)/87D#5-XZMG.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=103 loop_end=250730 sample=../Audio/ExcessiveVelocity/(20131219 22354)/87D#5-F7UG.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=210153 loop_end=340312 sample=../Audio/ExcessiveVelocity/(20131219 22354)/87D#5-QSY2.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=188304 loop_end=348782 sample=../Audio/ExcessiveVelocity/(20131219 22354)/87D#5-45PP.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=251724 loop_end=359320 sample=../Audio/ExcessiveVelocity/(20131219 22354)/87D#5-6HJ9.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=54224 loop_end=139398 sample=../Audio/ExcessiveVelocity/(20131219 22354)/87D#5-HJXF.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=80682 loop_end=165715 sample=../Audio/ExcessiveVelocity/(20131219 22354)/87D#5-PCI5.aif
+<group> key=88 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=130587 loop_end=218404 sample=../Audio/ExcessiveVelocity/(20131219 22354)/88E5-MKXO.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=119 loop_end=251840 sample=../Audio/ExcessiveVelocity/(20131219 22354)/88E5-Z2O3.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=45 loop_end=185146 sample=../Audio/ExcessiveVelocity/(20131219 22354)/88E5-8K22.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=199450 loop_end=336143 sample=../Audio/ExcessiveVelocity/(20131219 22354)/88E5-5AD2.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=194226 loop_end=330187 sample=../Audio/ExcessiveVelocity/(20131219 22354)/88E5-O69W.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=146162 loop_end=223825 sample=../Audio/ExcessiveVelocity/(20131219 22354)/88E5-PZWY.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=233682 loop_end=311944 sample=../Audio/ExcessiveVelocity/(20131219 22354)/88E5-LDBX.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=227578 loop_end=346968 sample=../Audio/ExcessiveVelocity/(20131219 22354)/88E5-1G3X.aif
+<group> key=89 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=120224 loop_end=358639 sample=../Audio/ExcessiveVelocity/(20131219 22354)/89F5-A8PN.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=89 loop_end=196611 sample=../Audio/ExcessiveVelocity/(20131219 22354)/89F5-K6VE.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=228 loop_end=226184 sample=../Audio/ExcessiveVelocity/(20131219 22354)/89F5-QGDJ.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=100407 loop_end=231188 sample=../Audio/ExcessiveVelocity/(20131219 22354)/89F5-MFVZ.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=223528 loop_end=358329 sample=../Audio/ExcessiveVelocity/(20131219 22354)/89F5-68H5.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=246319 loop_end=354235 sample=../Audio/ExcessiveVelocity/(20131219 22354)/89F5-BIML.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=160066 loop_end=233936 sample=../Audio/ExcessiveVelocity/(20131219 22354)/89F5-WCBQ.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=216928 loop_end=290798 sample=../Audio/ExcessiveVelocity/(20131219 22354)/89F5-9QK5.aif
+<group> key=90 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=103926 loop_end=181822 sample=../Audio/ExcessiveVelocity/(20131219 22354)/90F#5-RR7U.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=437 loop_end=215147 sample=../Audio/ExcessiveVelocity/(20131219 22354)/90F#5-FWT4.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=40 loop_end=218002 sample=../Audio/ExcessiveVelocity/(20131219 22354)/90F#5-CQKA.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=250507 loop_end=324739 sample=../Audio/ExcessiveVelocity/(20131219 22354)/90F#5-2V7Y.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=263046 loop_end=353880 sample=../Audio/ExcessiveVelocity/(20131219 22354)/90F#5-OHMX.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=113915 loop_end=199472 sample=../Audio/ExcessiveVelocity/(20131219 22354)/90F#5-3YMP.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=261760 loop_end=339194 sample=../Audio/ExcessiveVelocity/(20131219 22354)/90F#5-NW5C.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=262648 loop_end=336821 sample=../Audio/ExcessiveVelocity/(20131219 22354)/90F#5-7IWO.aif
+<group> key=91 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=107700 loop_end=186812 sample=../Audio/ExcessiveVelocity/(20131219 22354)/91G5-5KQS.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=92 loop_end=245763 sample=../Audio/ExcessiveVelocity/(20131219 22354)/91G5-EDWI.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=0 loop_end=158234 sample=../Audio/ExcessiveVelocity/(20131219 22354)/91G5-6GZJ.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=122333 loop_end=358164 sample=../Audio/ExcessiveVelocity/(20131219 22354)/91G5-IC16.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=185255 loop_end=270655 sample=../Audio/ExcessiveVelocity/(20131219 22354)/91G5-VAF0.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=212937 loop_end=298225 sample=../Audio/ExcessiveVelocity/(20131219 22354)/91G5-SWJT.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=238332 loop_end=356247 sample=../Audio/ExcessiveVelocity/(20131219 22354)/91G5-O85M.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=231004 loop_end=333417 sample=../Audio/ExcessiveVelocity/(20131219 22354)/91G5-C4FJ.aif
+<group> key=92 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=195858 loop_end=310246 sample=../Audio/ExcessiveVelocity/(20131219 22354)/92G#5-FWCU.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=104167 loop_end=359426 sample=../Audio/ExcessiveVelocity/(20131219 22354)/92G#5-4EO8.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=11 loop_end=207570 sample=../Audio/ExcessiveVelocity/(20131219 22354)/92G#5-E6G7.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=182001 loop_end=349130 sample=../Audio/ExcessiveVelocity/(20131219 22354)/92G#5-HTXI.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=248813 loop_end=363278 sample=../Audio/ExcessiveVelocity/(20131219 22354)/92G#5-4ZDC.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=157371 loop_end=234385 sample=../Audio/ExcessiveVelocity/(20131219 22354)/92G#5-L6H2.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=237258 loop_end=363027 sample=../Audio/ExcessiveVelocity/(20131219 22354)/92G#5-LRW0.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257518 loop_end=336011 sample=../Audio/ExcessiveVelocity/(20131219 22354)/92G#5-622B.aif
+<group> key=93 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=226926 loop_end=310265 sample=../Audio/ExcessiveVelocity/(20131219 22354)/93A5-U1S9.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=121 loop_end=137682 sample=../Audio/ExcessiveVelocity/(20131219 22354)/93A5-UNPQ.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=267 loop_end=264563 sample=../Audio/ExcessiveVelocity/(20131219 22354)/93A5-79N5.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=282025 loop_end=360546 sample=../Audio/ExcessiveVelocity/(20131219 22354)/93A5-LUF1.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=121041 loop_end=201457 sample=../Audio/ExcessiveVelocity/(20131219 22354)/93A5-2YCB.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=218242 loop_end=347566 sample=../Audio/ExcessiveVelocity/(20131219 22354)/93A5-8AHW.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=107914 loop_end=182397 sample=../Audio/ExcessiveVelocity/(20131219 22354)/93A5-DPTK.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272544 loop_end=359790 sample=../Audio/ExcessiveVelocity/(20131219 22354)/93A5-5R3K.aif
+<group> key=94 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=53228 loop_end=133655 sample=../Audio/ExcessiveVelocity/(20131219 22354)/94A#5-ZPYZ.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=78175 loop_end=359290 sample=../Audio/ExcessiveVelocity/(20131219 22354)/94A#5-CMRF.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=66 loop_end=246634 sample=../Audio/ExcessiveVelocity/(20131219 22354)/94A#5-HKZO.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=233517 loop_end=353842 sample=../Audio/ExcessiveVelocity/(20131219 22354)/94A#5-WC4A.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=234082 loop_end=344855 sample=../Audio/ExcessiveVelocity/(20131219 22354)/94A#5-3Y1L.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=211218 loop_end=362178 sample=../Audio/ExcessiveVelocity/(20131219 22354)/94A#5-XIKG.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=117446 loop_end=199043 sample=../Audio/ExcessiveVelocity/(20131219 22354)/94A#5-UAYJ.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=150650 loop_end=246976 sample=../Audio/ExcessiveVelocity/(20131219 22354)/94A#5-ZACN.aif
+<group> key=95 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=17851 loop_end=340217 sample=../Audio/ExcessiveVelocity/(20131219 22354)/95B5-PLN6.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=406 loop_end=215052 sample=../Audio/ExcessiveVelocity/(20131219 22354)/95B5-4814.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=0 loop_end=146080 sample=../Audio/ExcessiveVelocity/(20131219 22354)/95B5-PE78.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=48 loop_end=225594 sample=../Audio/ExcessiveVelocity/(20131219 22354)/95B5-VS2G.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=199788 loop_end=275029 sample=../Audio/ExcessiveVelocity/(20131219 22354)/95B5-RSOO.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=199628 loop_end=300986 sample=../Audio/ExcessiveVelocity/(20131219 22354)/95B5-D03S.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=239323 loop_end=315319 sample=../Audio/ExcessiveVelocity/(20131219 22354)/95B5-WFZW.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276584 loop_end=353113 sample=../Audio/ExcessiveVelocity/(20131219 22354)/95B5-9PRU.aif
+<group> key=96 
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=250378 loop_end=336569 sample=../Audio/ExcessiveVelocity/(20131219 22354)/96C6-SHR1.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=10758 loop_end=89774 sample=../Audio/ExcessiveVelocity/(20131219 22354)/96C6-ZY54.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=98 loop_end=217646 sample=../Audio/ExcessiveVelocity/(20131219 22354)/96C6-6435.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=166387 loop_end=356093 sample=../Audio/ExcessiveVelocity/(20131219 22354)/96C6-IMZI.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=349 loop_end=72709 sample=../Audio/ExcessiveVelocity/(20131219 22354)/96C6-Q6VF.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=100406 loop_end=197711 sample=../Audio/ExcessiveVelocity/(20131219 22354)/96C6-M4P3.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=262546 loop_end=343249 sample=../Audio/ExcessiveVelocity/(20131219 22354)/96C6-RVUH.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=202915 loop_end=300220 sample=../Audio/ExcessiveVelocity/(20131219 22354)/96C6-TR6Q.aif

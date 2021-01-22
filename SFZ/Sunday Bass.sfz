@@ -1,0 +1,246 @@
+// this file was generated from Sunday Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=403 end=283368 sample=../Audio/Sunday Bass/36C1-9NEI.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=366 end=281875 sample=../Audio/Sunday Bass/36C1-S6DZ.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=333 end=291968 sample=../Audio/Sunday Bass/36C1-DWFP.aif
+<group> key=37 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=329 end=283875 sample=../Audio/Sunday Bass/37C#1-2XTV.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=398 end=283268 sample=../Audio/Sunday Bass/37C#1-8ZVF.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=349 end=281462 sample=../Audio/Sunday Bass/37C#1-AIO5.aif
+<group> key=38 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=365 end=307066 sample=../Audio/Sunday Bass/38D1-S9JU.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=441 end=283037 sample=../Audio/Sunday Bass/38D1-0W6C.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=386 end=282065 sample=../Audio/Sunday Bass/38D1-4OW9.aif
+<group> key=39 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=436 end=292224 sample=../Audio/Sunday Bass/39D#1-OW4R.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=414 end=319106 sample=../Audio/Sunday Bass/39D#1-7NR1.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=455 end=305111 sample=../Audio/Sunday Bass/39D#1-TVJX.aif
+<group> key=40 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=437 end=283835 sample=../Audio/Sunday Bass/40E1-99LU.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=428 end=304804 sample=../Audio/Sunday Bass/40E1-8US6.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=321 end=304316 sample=../Audio/Sunday Bass/40E1-NY21.aif
+<group> key=41 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=500 end=294146 sample=../Audio/Sunday Bass/41F1-8Z8G.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=352 sample=../Audio/Sunday Bass/41F1-AAGD.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=335 end=292992 sample=../Audio/Sunday Bass/41F1-PMZA.aif
+<group> key=42 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=468 end=284112 sample=../Audio/Sunday Bass/42F#1-57LO.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=348 end=282983 sample=../Audio/Sunday Bass/42F#1-576F.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=448 end=282221 sample=../Audio/Sunday Bass/42F#1-FN82.aif
+<group> key=43 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=379 sample=../Audio/Sunday Bass/43G1-1FCV.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=320 end=291845 sample=../Audio/Sunday Bass/43G1-HLOT.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=418 end=282240 sample=../Audio/Sunday Bass/43G1-8NI8.aif
+<group> key=44 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=406 end=282214 sample=../Audio/Sunday Bass/44G#1-KUHA.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=325 end=306335 sample=../Audio/Sunday Bass/44G#1-X1RV.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=336 end=305870 sample=../Audio/Sunday Bass/44G#1-GXP1.aif
+<group> key=45 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=471 end=306304 sample=../Audio/Sunday Bass/45A1-2EWD.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=487 sample=../Audio/Sunday Bass/45A1-C0PC.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=336 end=305593 sample=../Audio/Sunday Bass/45A1-F6JQ.aif
+<group> key=46 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=309 end=283138 sample=../Audio/Sunday Bass/46A#1-WDVQ.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=323 end=316288 sample=../Audio/Sunday Bass/46A#1-IVYH.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=376 end=281722 sample=../Audio/Sunday Bass/46A#1-7Z3Y.aif
+<group> key=47 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=397 end=292864 sample=../Audio/Sunday Bass/47B1-C5II.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=355 end=304575 sample=../Audio/Sunday Bass/47B1-TJU7.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=499 end=282971 sample=../Audio/Sunday Bass/47B1-X0OX.aif
+<group> key=48 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=436 end=282342 sample=../Audio/Sunday Bass/48C2-XAK2.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=367 end=305586 sample=../Audio/Sunday Bass/48C2-LOKA.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=397 end=315648 sample=../Audio/Sunday Bass/48C2-37LD.aif
+<group> key=49 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=377 end=282590 sample=../Audio/Sunday Bass/49C#2-T87V.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=391 end=307260 sample=../Audio/Sunday Bass/49C#2-PO8H.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=436 end=282255 sample=../Audio/Sunday Bass/49C#2-67QA.aif
+<group> key=50 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=470 end=281974 sample=../Audio/Sunday Bass/50D2-QU0N.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=413 end=293273 sample=../Audio/Sunday Bass/50D2-NL3V.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=321 end=303881 sample=../Audio/Sunday Bass/50D2-T8Q5.aif
+<group> key=51 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=359 end=292736 sample=../Audio/Sunday Bass/51D#2-2KRT.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=447 end=282435 sample=../Audio/Sunday Bass/51D#2-5PR1.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=416 end=307252 sample=../Audio/Sunday Bass/51D#2-KUUM.aif
+<group> key=52 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=336 end=304601 sample=../Audio/Sunday Bass/52E2-ZL5D.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=305 end=316033 sample=../Audio/Sunday Bass/52E2-64TM.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=274 end=304105 sample=../Audio/Sunday Bass/52E2-LPJ9.aif
+<group> key=53 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=437 end=282979 sample=../Audio/Sunday Bass/53F2-8SZN.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=337 end=292227 sample=../Audio/Sunday Bass/53F2-IMLJ.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=343 end=282233 sample=../Audio/Sunday Bass/53F2-WER6.aif
+<group> key=54 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=284 end=281791 sample=../Audio/Sunday Bass/54F#2-MDE1.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=345 sample=../Audio/Sunday Bass/54F#2-RYI8.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=347 end=315520 sample=../Audio/Sunday Bass/54F#2-X6DK.aif
+<group> key=55 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=456 end=282932 sample=../Audio/Sunday Bass/55G2-DKRT.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=484 end=281992 sample=../Audio/Sunday Bass/55G2-VCWO.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=314 end=305007 sample=../Audio/Sunday Bass/55G2-H9JJ.aif
+<group> key=56 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=328 end=304739 sample=../Audio/Sunday Bass/56G#2-3IHF.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=411 end=303965 sample=../Audio/Sunday Bass/56G#2-2B5J.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=426 end=305588 sample=../Audio/Sunday Bass/56G#2-CAYU.aif
+<group> key=57 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=416 end=306783 sample=../Audio/Sunday Bass/57A2-4L61.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=357 end=315394 sample=../Audio/Sunday Bass/57A2-PPX5.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=451 sample=../Audio/Sunday Bass/57A2-PJSA.aif
+<group> key=58 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=377 end=303444 sample=../Audio/Sunday Bass/58A#2-QAHV.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=341 end=302853 sample=../Audio/Sunday Bass/58A#2-VTR7.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=421 end=303139 sample=../Audio/Sunday Bass/58A#2-P3UZ.aif
+<group> key=59 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=382 end=305203 sample=../Audio/Sunday Bass/59B2-1VC0.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=340 end=304541 sample=../Audio/Sunday Bass/59B2-H170.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=333 end=306015 sample=../Audio/Sunday Bass/59B2-2MQK.aif
+<group> key=60 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=414 end=304940 sample=../Audio/Sunday Bass/60C3-FBA3.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=310 end=304653 sample=../Audio/Sunday Bass/60C3-D7O2.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=361 end=304242 sample=../Audio/Sunday Bass/60C3-HGTL.aif
+<group> key=61 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=461 end=303922 sample=../Audio/Sunday Bass/61C#3-ZBS5.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=334 end=315010 sample=../Audio/Sunday Bass/61C#3-7SSQ.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=496 sample=../Audio/Sunday Bass/61C#3-5OOQ.aif
+<group> key=62 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=462 end=313728 sample=../Audio/Sunday Bass/62D3-O1MB.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=438 end=303002 sample=../Audio/Sunday Bass/62D3-5IJM.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=307 end=304056 sample=../Audio/Sunday Bass/62D3-98FC.aif
+<group> key=63 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=404 end=305879 sample=../Audio/Sunday Bass/63D#3-ZUTG.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=413 end=304188 sample=../Audio/Sunday Bass/63D#3-RK84.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=365 end=304740 sample=../Audio/Sunday Bass/63D#3-OLJ1.aif
+<group> key=64 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=407 sample=../Audio/Sunday Bass/64E3-QARI.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=378 end=304505 sample=../Audio/Sunday Bass/64E3-XA39.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=348 end=304401 sample=../Audio/Sunday Bass/64E3-MWRP.aif
+<group> key=65 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=435 end=305187 sample=../Audio/Sunday Bass/65F3-LNGN.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=393 end=282678 sample=../Audio/Sunday Bass/65F3-J5MS.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=480 end=293070 sample=../Audio/Sunday Bass/65F3-KH3H.aif
+<group> key=66 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=369 end=281773 sample=../Audio/Sunday Bass/66F#3-A332.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=436 end=305094 sample=../Audio/Sunday Bass/66F#3-650F.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=302 end=282339 sample=../Audio/Sunday Bass/66F#3-2HJ5.aif
+<group> key=67 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=335 end=306110 sample=../Audio/Sunday Bass/67G3-PCUQ.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=498 end=282873 sample=../Audio/Sunday Bass/67G3-XX5Z.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=443 end=304089 sample=../Audio/Sunday Bass/67G3-ZH7M.aif
+<group> key=68 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=452 end=304719 sample=../Audio/Sunday Bass/68G#3-YU8H.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=495 end=303999 sample=../Audio/Sunday Bass/68G#3-5GLU.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=377 end=303895 sample=../Audio/Sunday Bass/68G#3-9BBR.aif
+<group> key=69 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=451 end=302934 sample=../Audio/Sunday Bass/69A3-V90S.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=378 end=305413 sample=../Audio/Sunday Bass/69A3-7EQ7.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=459 end=304393 sample=../Audio/Sunday Bass/69A3-XZ7W.aif
+<group> key=70 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=274 sample=../Audio/Sunday Bass/70A#3-I61W.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=348 end=300553 sample=../Audio/Sunday Bass/70A#3-KXYN.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=290 end=301565 sample=../Audio/Sunday Bass/70A#3-7WU0.aif
+<group> key=71 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=501 end=301417 sample=../Audio/Sunday Bass/71B3-NBAV.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=352 end=313088 sample=../Audio/Sunday Bass/71B3-ZJ1K.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=451 end=301261 sample=../Audio/Sunday Bass/71B3-5HAZ.aif
+<group> key=72 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=356 end=304230 sample=../Audio/Sunday Bass/72C4-9V2W.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=403 end=300420 sample=../Audio/Sunday Bass/72C4-X05U.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=313 end=301666 sample=../Audio/Sunday Bass/72C4-YRM8.aif
+<group> key=73 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=379 end=301069 sample=../Audio/Sunday Bass/73C#4-MRTM.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=448 end=302536 sample=../Audio/Sunday Bass/73C#4-HAF0.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=386 end=302948 sample=../Audio/Sunday Bass/73C#4-UYUN.aif
+<group> key=74 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=349 end=302872 sample=../Audio/Sunday Bass/74D4-E3ZP.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=444 end=302221 sample=../Audio/Sunday Bass/74D4-Q6FC.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=319 end=303305 sample=../Audio/Sunday Bass/74D4-BET1.aif
+<group> key=75 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=379 end=303936 sample=../Audio/Sunday Bass/75D#4-4VMO.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=406 end=304090 sample=../Audio/Sunday Bass/75D#4-G1YO.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=385 end=315648 sample=../Audio/Sunday Bass/75D#4-Z4PI.aif
+<group> key=76 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=319 end=282118 sample=../Audio/Sunday Bass/76E4-11ZB.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=353 end=304980 sample=../Audio/Sunday Bass/76E4-7D7Q.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=344 end=282335 sample=../Audio/Sunday Bass/76E4-FSOC.aif
+<group> key=77 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=475 end=316547 sample=../Audio/Sunday Bass/77F4-EUOD.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=494 end=281895 sample=../Audio/Sunday Bass/77F4-TDEM.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=348 end=306623 sample=../Audio/Sunday Bass/77F4-YQ2V.aif
+<group> key=78 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=462 end=282109 sample=../Audio/Sunday Bass/78F#4-MHXK.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=290 end=306184 sample=../Audio/Sunday Bass/78F#4-LHPY.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=460 end=292736 sample=../Audio/Sunday Bass/78F#4-J09X.aif
+<group> key=79 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=335 end=306191 sample=../Audio/Sunday Bass/79G4-3DLT.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=448 end=281786 sample=../Audio/Sunday Bass/79G4-ZRQ6.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=469 end=305592 sample=../Audio/Sunday Bass/79G4-I0YV.aif
+<group> key=80 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=394 end=303085 sample=../Audio/Sunday Bass/80G#4-NJVJ.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=335 end=304479 sample=../Audio/Sunday Bass/80G#4-2KCA.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=367 end=315136 sample=../Audio/Sunday Bass/80G#4-CK0I.aif
+<group> key=81 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=411 end=301582 sample=../Audio/Sunday Bass/81A4-9R28.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=465 end=301778 sample=../Audio/Sunday Bass/81A4-2RRJ.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=380 end=300476 sample=../Audio/Sunday Bass/81A4-O7D9.aif
+<group> key=82 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=296 end=310144 sample=../Audio/Sunday Bass/82A#4-JIH1.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=286 end=299120 sample=../Audio/Sunday Bass/82A#4-JO2J.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=379 end=298979 sample=../Audio/Sunday Bass/82A#4-44LK.aif
+<group> key=83 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=389 end=297172 sample=../Audio/Sunday Bass/83B4-73AZ.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=409 end=307968 sample=../Audio/Sunday Bass/83B4-OMOE.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=477 end=295861 sample=../Audio/Sunday Bass/83B4-DRQE.aif
+<group> key=84 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=357 end=307712 sample=../Audio/Sunday Bass/84C5-G4KJ.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=363 end=295192 sample=../Audio/Sunday Bass/84C5-N5IZ.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=314 end=306432 sample=../Audio/Sunday Bass/84C5-U2EQ.aif
+<group> key=85 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=400 sample=../Audio/Sunday Bass/85C#5-FW5Z.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=355 end=293975 sample=../Audio/Sunday Bass/85C#5-FUUD.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=311 end=295234 sample=../Audio/Sunday Bass/85C#5-Z2OQ.aif
+<group> key=86 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=468 end=307328 sample=../Audio/Sunday Bass/86D5-I12R.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=384 end=306432 sample=../Audio/Sunday Bass/86D5-MDY5.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=429 end=295082 sample=../Audio/Sunday Bass/86D5-SLY1.aif
+<group> key=87 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=491 end=307200 sample=../Audio/Sunday Bass/87D#5-BTVL.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=425 end=294731 sample=../Audio/Sunday Bass/87D#5-KIL8.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=392 end=295178 sample=../Audio/Sunday Bass/87D#5-94I3.aif
+<group> key=88 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=387 end=296744 sample=../Audio/Sunday Bass/88E5-RXP5.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=424 end=296407 sample=../Audio/Sunday Bass/88E5-X0XC.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=289 end=296076 sample=../Audio/Sunday Bass/88E5-UP14.aif
+<group> key=89 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=349 sample=../Audio/Sunday Bass/89F5-H5KZ.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=390 end=310276 sample=../Audio/Sunday Bass/89F5-4DP0.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=422 end=296559 sample=../Audio/Sunday Bass/89F5-KK72.aif
+<group> key=90 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=360 end=307840 sample=../Audio/Sunday Bass/90F#5-P5HS.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=331 end=296630 sample=../Audio/Sunday Bass/90F#5-3VJ2.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=294 end=297067 sample=../Audio/Sunday Bass/90F#5-HISH.aif
+<group> key=91 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=430 end=295017 sample=../Audio/Sunday Bass/91G5-J2M4.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=429 end=296059 sample=../Audio/Sunday Bass/91G5-SP4D.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=454 sample=../Audio/Sunday Bass/91G5-SV3V.aif
+<group> key=92 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=483 end=294823 sample=../Audio/Sunday Bass/92G#5-JX61.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=321 end=293790 sample=../Audio/Sunday Bass/92G#5-QJME.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=439 end=294305 sample=../Audio/Sunday Bass/92G#5-M0GL.aif
+<group> key=93 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=419 end=289532 sample=../Audio/Sunday Bass/93A5-WB10.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=473 end=289573 sample=../Audio/Sunday Bass/93A5-GPID.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=458 end=289159 sample=../Audio/Sunday Bass/93A5-IP18.aif
+<group> key=94 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=284 end=300032 sample=../Audio/Sunday Bass/94A#5-QBQ4.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=499 end=286475 sample=../Audio/Sunday Bass/94A#5-1VMQ.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=445 end=279034 sample=../Audio/Sunday Bass/94A#5-DDS8.aif
+<group> key=95 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=357 end=276583 sample=../Audio/Sunday Bass/95B5-DZOW.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=401 end=277236 sample=../Audio/Sunday Bass/95B5-NPVC.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=375 end=276934 sample=../Audio/Sunday Bass/95B5-KXT9.aif
+<group> key=96 
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=458 end=274878 sample=../Audio/Sunday Bass/96C6-VSR7.aif
+	<region> lovel=033 hivel=077 amp_velcurve_077=1 offset=416 end=274249 sample=../Audio/Sunday Bass/96C6-D9OL.aif
+	<region> lovel=078 hivel=127 amp_velcurve_127=1 offset=465 end=274944 sample=../Audio/Sunday Bass/96C6-02LO.aif

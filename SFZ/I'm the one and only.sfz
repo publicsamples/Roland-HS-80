@@ -1,0 +1,124 @@
+// this file was generated from I'm the one and only.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315757 loop_end=395704 sample=../Audio/I'm the one and only/(20131219 0172)/36C1-V733.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282590 loop_end=362476 sample=../Audio/I'm the one and only/(20131219 0172)/37C#1-RJIY.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305735 loop_end=385332 sample=../Audio/I'm the one and only/(20131219 0172)/38D1-828J.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=294550 loop_end=375609 sample=../Audio/I'm the one and only/(20131219 0172)/39D#1-RJZ6.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235121 loop_end=395602 sample=../Audio/I'm the one and only/(20131219 0172)/40E1-R2ZH.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314977 loop_end=395976 sample=../Audio/I'm the one and only/(20131219 0172)/41F1-47DQ.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=298064 loop_end=377861 sample=../Audio/I'm the one and only/(20131219 0172)/42F#1-JC0K.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=295289 loop_end=375316 sample=../Audio/I'm the one and only/(20131219 0172)/43G1-5X2Q.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=318840 loop_end=398812 sample=../Audio/I'm the one and only/(20131219 0172)/44G#1-9P3Y.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236421 loop_end=397185 sample=../Audio/I'm the one and only/(20131219 0172)/45A1-7W3Z.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237490 loop_end=398438 sample=../Audio/I'm the one and only/(20131219 0172)/46A#1-0VB6.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241273 loop_end=401935 sample=../Audio/I'm the one and only/(20131219 0172)/47B1-ZI41.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313433 loop_end=393355 sample=../Audio/I'm the one and only/(20131219 0172)/48C2-4BEK.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314206 loop_end=394088 sample=../Audio/I'm the one and only/(20131219 0172)/49C#2-WDZ5.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279468 loop_end=360100 sample=../Audio/I'm the one and only/(20131219 0172)/50D2-8J2Z.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271418 loop_end=351473 sample=../Audio/I'm the one and only/(20131219 0172)/51D#2-7KXP.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237256 loop_end=397728 sample=../Audio/I'm the one and only/(20131219 0172)/52E2-FJ20.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=293076 loop_end=373198 sample=../Audio/I'm the one and only/(20131219 0172)/53F2-WFXJ.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=301603 loop_end=382228 sample=../Audio/I'm the one and only/(20131219 0172)/54F#2-L0GE.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242508 loop_end=403335 sample=../Audio/I'm the one and only/(20131219 0172)/55G2-8MC4.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236752 loop_end=397432 sample=../Audio/I'm the one and only/(20131219 0172)/56G#2-V5I6.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=322311 loop_end=402668 sample=../Audio/I'm the one and only/(20131219 0172)/57A2-XHVA.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240840 loop_end=401790 sample=../Audio/I'm the one and only/(20131219 0172)/58A#2-WLGT.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270931 loop_end=351258 sample=../Audio/I'm the one and only/(20131219 0172)/59B2-B69Y.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239598 loop_end=400613 sample=../Audio/I'm the one and only/(20131219 0172)/60C3-V7ZF.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234790 loop_end=395648 sample=../Audio/I'm the one and only/(20131219 0172)/61C#3-YXCC.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234748 loop_end=395471 sample=../Audio/I'm the one and only/(20131219 0172)/62D3-BZV9.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241855 loop_end=402473 sample=../Audio/I'm the one and only/(20131219 0172)/63D#3-4HP8.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232751 loop_end=393662 sample=../Audio/I'm the one and only/(20131219 0172)/64E3-KK36.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237243 loop_end=397926 sample=../Audio/I'm the one and only/(20131219 0172)/65F3-ZKS9.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239793 loop_end=400598 sample=../Audio/I'm the one and only/(20131219 0172)/66F#3-NKNU.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234690 loop_end=395491 sample=../Audio/I'm the one and only/(20131219 0172)/67G3-LN1W.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238115 loop_end=398774 sample=../Audio/I'm the one and only/(20131219 0172)/68G#3-MKU1.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235804 loop_end=396556 sample=../Audio/I'm the one and only/(20131219 0172)/69A3-8OPC.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239272 loop_end=399907 sample=../Audio/I'm the one and only/(20131219 0172)/70A#3-TLTH.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239211 loop_end=399834 sample=../Audio/I'm the one and only/(20131219 0172)/71B3-2CS1.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235586 loop_end=396318 sample=../Audio/I'm the one and only/(20131219 0172)/72C4-OYNB.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237132 loop_end=397974 sample=../Audio/I'm the one and only/(20131219 0172)/73C#4-T42G.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238778 loop_end=399498 sample=../Audio/I'm the one and only/(20131219 0172)/74D4-709J.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233418 loop_end=394264 sample=../Audio/I'm the one and only/(20131219 0172)/75D#4-GG5L.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236886 loop_end=397564 sample=../Audio/I'm the one and only/(20131219 0172)/76E4-EIPR.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236894 loop_end=397593 sample=../Audio/I'm the one and only/(20131219 0172)/77F4-IGZA.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242460 loop_end=403063 sample=../Audio/I'm the one and only/(20131219 0172)/78F#4-FU40.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235176 loop_end=395999 sample=../Audio/I'm the one and only/(20131219 0172)/79G4-HK0I.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237075 loop_end=397747 sample=../Audio/I'm the one and only/(20131219 0172)/80G#4-6B8R.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235352 loop_end=396081 sample=../Audio/I'm the one and only/(20131219 0172)/81A4-7KII.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240853 loop_end=401623 sample=../Audio/I'm the one and only/(20131219 0172)/82A#4-LLV0.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235529 loop_end=396304 sample=../Audio/I'm the one and only/(20131219 0172)/83B4-RAY4.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237144 loop_end=398005 sample=../Audio/I'm the one and only/(20131219 0172)/84C5-4KYQ.aif
+<group> key=85 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235684 loop_end=396410 sample=../Audio/I'm the one and only/(20131219 0172)/85C#5-SRS7.aif
+<group> key=86 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239195 loop_end=399936 sample=../Audio/I'm the one and only/(20131219 0172)/86D5-OEPG.aif
+<group> key=87 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233819 loop_end=394737 sample=../Audio/I'm the one and only/(20131219 0172)/87D#5-HSPU.aif
+<group> key=88 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233797 loop_end=394715 sample=../Audio/I'm the one and only/(20131219 0172)/88E5-YL77.aif
+<group> key=89 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242916 loop_end=403706 sample=../Audio/I'm the one and only/(20131219 0172)/89F5-OJ0M.aif
+<group> key=90 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234506 loop_end=395424 sample=../Audio/I'm the one and only/(20131219 0172)/90F#5-HFVP.aif
+<group> key=91 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239073 loop_end=399991 sample=../Audio/I'm the one and only/(20131219 0172)/91G5-79Q8.aif
+<group> key=92 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234981 loop_end=395899 sample=../Audio/I'm the one and only/(20131219 0172)/92G#5-1CFX.aif
+<group> key=93 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238458 loop_end=399248 sample=../Audio/I'm the one and only/(20131219 0172)/93A5-VWRA.aif
+<group> key=94 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237841 loop_end=398631 sample=../Audio/I'm the one and only/(20131219 0172)/94A#5-D6DM.aif
+<group> key=95 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235536 loop_end=396326 sample=../Audio/I'm the one and only/(20131219 0172)/95B5-I69Q.aif
+<group> key=96 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241235 loop_end=402153 sample=../Audio/I'm the one and only/(20131219 0172)/96C6-HV0K.aif

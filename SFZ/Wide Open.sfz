@@ -1,0 +1,124 @@
+// this file was generated from Wide Open.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=187850 loop_end=382400 sample=../Audio/Wide Open/(20131218 195650)/36C1-XW2J.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321570 loop_end=386131 sample=../Audio/Wide Open/(20131218 195650)/37C#1-IDQ9.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=165064 loop_end=229688 sample=../Audio/Wide Open/(20131218 195650)/38D1-U1VW.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=294774 loop_end=360294 sample=../Audio/Wide Open/(20131218 195650)/39D#1-FWCI.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232470 loop_end=362535 sample=../Audio/Wide Open/(20131218 195650)/40E1-JZX5.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=158219 loop_end=374344 sample=../Audio/Wide Open/(20131218 195650)/41F1-GVEQ.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=195711 loop_end=390280 sample=../Audio/Wide Open/(20131218 195650)/42F#1-YBKY.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273554 loop_end=338940 sample=../Audio/Wide Open/(20131218 195650)/43G1-M79G.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=168040 loop_end=362561 sample=../Audio/Wide Open/(20131218 195650)/44G#1-369M.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=191582 loop_end=343173 sample=../Audio/Wide Open/(20131218 195650)/45A1-44VJ.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=158134 loop_end=374345 sample=../Audio/Wide Open/(20131218 195650)/46A#1-75LW.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=158395 loop_end=374534 sample=../Audio/Wide Open/(20131218 195650)/47B1-B1P9.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=163811 loop_end=379968 sample=../Audio/Wide Open/(20131218 195650)/48C2-2ILS.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=167347 loop_end=383954 sample=../Audio/Wide Open/(20131218 195650)/49C#2-YAD0.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=193183 loop_end=388019 sample=../Audio/Wide Open/(20131218 195650)/50D2-OSYL.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=172884 loop_end=388954 sample=../Audio/Wide Open/(20131218 195650)/51D#2-7LNR.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=174941 loop_end=391124 sample=../Audio/Wide Open/(20131218 195650)/52E2-BYOL.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=159709 loop_end=375834 sample=../Audio/Wide Open/(20131218 195650)/53F2-4LA9.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=167669 loop_end=383594 sample=../Audio/Wide Open/(20131218 195650)/54F#2-G5BW.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=169613 loop_end=385918 sample=../Audio/Wide Open/(20131218 195650)/55G2-9XM7.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=174981 loop_end=390976 sample=../Audio/Wide Open/(20131218 195650)/56G#2-YPGB.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=163787 loop_end=379604 sample=../Audio/Wide Open/(20131218 195650)/57A2-ZZAB.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=166705 loop_end=382834 sample=../Audio/Wide Open/(20131218 195650)/58A#2-4VP8.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=172890 loop_end=388952 sample=../Audio/Wide Open/(20131218 195650)/59B2-9YFB.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=159883 loop_end=375894 sample=../Audio/Wide Open/(20131218 195650)/60C3-8C31.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=174648 loop_end=390623 sample=../Audio/Wide Open/(20131218 195650)/61C#3-IYJ0.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=158977 loop_end=375096 sample=../Audio/Wide Open/(20131218 195650)/62D3-6HUP.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=164715 loop_end=380503 sample=../Audio/Wide Open/(20131218 195650)/63D#3-7C9D.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=191500 loop_end=255928 sample=../Audio/Wide Open/(20131218 195650)/64E3-2DVI.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=218050 loop_end=282635 sample=../Audio/Wide Open/(20131218 195650)/65F3-SGP1.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=311351 loop_end=376097 sample=../Audio/Wide Open/(20131218 195650)/66F#3-25ON.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=317720 loop_end=382417 sample=../Audio/Wide Open/(20131218 195650)/67G3-DUYM.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=322751 loop_end=387408 sample=../Audio/Wide Open/(20131218 195650)/68G#3-U16J.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=311456 loop_end=376081 sample=../Audio/Wide Open/(20131218 195650)/69A3-ZVUJ.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=207328 loop_end=272091 sample=../Audio/Wide Open/(20131218 195650)/70A#3-0QYK.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=197512 loop_end=262010 sample=../Audio/Wide Open/(20131218 195650)/71B3-NAJO.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=312970 loop_end=377538 sample=../Audio/Wide Open/(20131218 195650)/72C4-XMJS.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=322469 loop_end=387050 sample=../Audio/Wide Open/(20131218 195650)/73C#4-AL31.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=326523 loop_end=391070 sample=../Audio/Wide Open/(20131218 195650)/74D4-Z2LF.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=311262 loop_end=375707 sample=../Audio/Wide Open/(20131218 195650)/75D#4-NQFP.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=320487 loop_end=384907 sample=../Audio/Wide Open/(20131218 195650)/76E4-ZL23.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324872 loop_end=389575 sample=../Audio/Wide Open/(20131218 195650)/77F4-AC2Y.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287903 loop_end=352530 sample=../Audio/Wide Open/(20131218 195650)/78F#4-BWYJ.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=293882 loop_end=358355 sample=../Audio/Wide Open/(20131218 195650)/79G4-5VAQ.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=170119 loop_end=386173 sample=../Audio/Wide Open/(20131218 195650)/80G#4-XZVD.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258697 loop_end=323508 sample=../Audio/Wide Open/(20131218 195650)/81A4-9BVH.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316352 loop_end=380914 sample=../Audio/Wide Open/(20131218 195650)/82A#4-XO77.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233374 loop_end=297955 sample=../Audio/Wide Open/(20131218 195650)/83B4-PVU2.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=177572 loop_end=242218 sample=../Audio/Wide Open/(20131218 195650)/84C5-1KZK.aif
+<group> key=85 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=183136 loop_end=247796 sample=../Audio/Wide Open/(20131218 195650)/85C#5-H8RC.aif
+<group> key=86 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=318180 loop_end=382796 sample=../Audio/Wide Open/(20131218 195650)/86D5-F7F4.aif
+<group> key=87 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=172871 loop_end=237527 sample=../Audio/Wide Open/(20131218 195650)/87D#5-PCYZ.aif
+<group> key=88 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241548 loop_end=306234 sample=../Audio/Wide Open/(20131218 195650)/88E5-FKFC.aif
+<group> key=89 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=322942 loop_end=387641 sample=../Audio/Wide Open/(20131218 195650)/89F5-BYK8.aif
+<group> key=90 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316021 loop_end=380885 sample=../Audio/Wide Open/(20131218 195650)/90F#5-D0CU.aif
+<group> key=91 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=322209 loop_end=387126 sample=../Audio/Wide Open/(20131218 195650)/91G5-APOL.aif
+<group> key=92 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=174073 loop_end=389957 sample=../Audio/Wide Open/(20131218 195650)/92G#5-VSD9.aif
+<group> key=93 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=181908 loop_end=246719 sample=../Audio/Wide Open/(20131218 195650)/93A5-R75J.aif
+<group> key=94 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=311265 loop_end=375780 sample=../Audio/Wide Open/(20131218 195650)/94A#5-6CMS.aif
+<group> key=95 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=318403 loop_end=383295 sample=../Audio/Wide Open/(20131218 195650)/95B5-VISA.aif
+<group> key=96 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313249 loop_end=377895 sample=../Audio/Wide Open/(20131218 195650)/96C6-6MH0.aif

@@ -6,6 +6,7 @@ An Alpha Juno with home keyboard speakers.
 -   **Formats:** EXS24, Kontakt & SFZ
 -   **Approx Size:** 2GB
 -   **Info:** [vintagesynth.com](http://www.vintagesynth.com/roland/ajuno2.php)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/hs80.html)
 
 **This collection requires you to download the audio seperately**
 

@@ -8,9 +8,8 @@ An Alpha Juno with home keyboard speakers.
 -   **Info:** [vintagesynth.com](http://www.vintagesynth.com/roland/ajuno2.php)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/hs80.html)
 
-**This collection requires you to download the audio seperately**
+**[Download Audio](https://github.com/publicsamples/Roland-HS-80/releases/tag/1.0)**
 
-[Download Audio from Dropbox](https://www.dropbox.com/sh/b18ygn4pbq6zxaq/AAACIq9kNkZS_13nHfHIEZ6ba?dl=0)
 
 # Loading
 
